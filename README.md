@@ -1,11 +1,9 @@
-# Introduction to Image Analysis Workshop
-
-_April 8th & 9th 2024, King's College London, Strand, WC2R 2LS_
-
-Instructors:
+# Instructors
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
 * [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
 * [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
+
+# Program
 
 ## Monday, April 8th
 
