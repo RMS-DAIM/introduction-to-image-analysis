@@ -2,6 +2,7 @@
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
 * [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
 * [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
+* [Vanessa Dao, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/vanessa-dao)
 
 # Program
 
