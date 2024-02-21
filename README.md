@@ -67,3 +67,13 @@ Apply for a place by completing [this form](https://forms.office.com/e/gvqCv7VTf
 
 * Writing and implementing a pipeline for batch quantification.
 * Visualising and interpreting results.
+
+# FAQ
+
+1. **Do I need any prior knowledge of image analysis, FIJI or napari to attend?**
+
+    No, this workshop is aimed at complete beginners, but a basic understanding of image acquisition would be beneficial.
+
+2. **Do I need to have any experience of coding?**
+
+    While some basic knowledge would be helpful, it's not essential and even if you have no knowledge of python, Jupyter notebooks or FIJI scripts/macros, you should still apply.
