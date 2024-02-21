@@ -34,7 +34,7 @@ Apply for a place by completing [this form](https://forms.office.com/e/gvqCv7VTf
 
 #### 13:00 - 14:00: Lunch
 
-##### 14:00 - 15:20: Session 3 - Analysing Images
+#### 14:00 - 15:20: Session 3 - Analysing Images
 
 * Practical Application: Quantifying morphology of objects in a 2D image.
 
