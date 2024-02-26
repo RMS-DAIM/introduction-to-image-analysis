@@ -77,3 +77,5 @@ Apply for a place by completing [this form](https://forms.office.com/e/gvqCv7VTf
 2. **Do I need to have any experience of coding?**
 
     While some basic knowledge would be helpful, it's not essential and even if you have no knowledge of python, Jupyter notebooks or FIJI scripts/macros, you should still apply.
+
+![Logos](./Resources/Combined_Logos.png)
