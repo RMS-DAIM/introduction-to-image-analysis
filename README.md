@@ -6,10 +6,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 No fee will be charged for participation, but attendance is restricted to staff from The Crick, King's College London, University College London and Imperial College London.
 
-* Application Deadline: March 10th
-* Notification of Application Outcome: March 15th
-
-Apply for a place by completing [this form](https://forms.office.com/e/gvqCv7VTf2).
+**The application deadline for this workshop has now passed. Applicants will be notified of the outcome of their applications by March 15th at the latest.**
 
 # Instructors
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
