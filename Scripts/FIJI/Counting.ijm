@@ -9,7 +9,7 @@
  * 
  */
 
-// Specifc the input directory
+// Specify the input directory
 inputDir = "C:/Users/davej/GitRepos/Pages/introduction-to-image-analysis/Data/idr0028"
 
 // Get the list of files in the input directory
@@ -17,9 +17,9 @@ images = getFileList(inputDir);
 
 // Iterate over all files
 for (i = 0; i < images.length; i++) {
-	// Open each image with Bio-Formats (www.openmicroscopy.org/bio-formats) to esnure correct reading of metadata
+	// Open each image with Bio-Formats (www.openmicroscopy.org/bio-formats) to ensure correct reading of metadata
 	run("Bio-Formats Importer", "open=[" + inputDir + File.separator() + images[i] + "] autoscale color_mode=Composite rois_import=[ROI manager] view=Hyperstack stack_order=XYCZT");
-	// Split the image into consitutent channels - this could also be done in the step above via Bio-Formats
+	// Split the image into constituent channels - this could also be done in the step above via Bio-Formats
 	run("Split Channels");
 	// Select the nth image, assuming this is the channel of interest
 	selectImage(1);
