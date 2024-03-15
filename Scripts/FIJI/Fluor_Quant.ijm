@@ -9,6 +9,11 @@
  * 
  */
 
+var nuc_blur_radius = 1.0;
+var cell_blur_radius = 1.0;
+var nuc_thresh_method = "Default";
+var cell_thresh_method = "Huang";
+
 // Use batch mode so the script runs faster!
 setBatchMode(true);
 
@@ -44,17 +49,17 @@ for (i = 0; i < images.length; i++) {
 	// Let's start with the nuclear channel
 	selectImage(nuc);
 	// Smooth the nuclei before segmenting
-	run("Gaussian Blur...", "sigma=1");
+	run("Gaussian Blur...", "sigma=" + nuc_blur_radius);
 	// Segment the nuclei using grey scale thresholding
-	setAutoThreshold("Default dark");
+	setAutoThreshold(nuc_thresh_method + " dark");
 	setOption("BlackBackground", false);
 	run("Convert to Mask");
 	// Move on to the actin channel
 	selectImage(actin);
 	// Smooth before segmenting
-	run("Gaussian Blur...", "sigma=1");
+	run("Gaussian Blur...", "sigma=" + cell_blur_radius);
 	// Segment using grey level thresholding
-	setAutoThreshold("Huang dark");
+	setAutoThreshold(cell_thresh_method + " dark");
 	setOption("BlackBackground", false);
 	run("Convert to Mask");
 	// Now we label the segmented nuclear image
@@ -95,16 +100,17 @@ for (i = 0; i < images.length; i++) {
 		Table.set("Ratio", j, nuc_intens[j] / cyto_intens[j]);
 	}
 	// Save the results as a CSV file
-	saveAs("Results", outputDir + File.separator() + images[i] +  "_Nuclear-to-cytoplasmic Ratios.csv");
+	results_name = images[i] +  "_Nuclear-to-cytoplasmic Ratios";
+	saveAs("Results", outputDir + File.separator() + results_name + ".csv");
 	// Generate a visualisation of the results, based on the segmented cell image, using a look-up table based on the nuclear-to-cytoplasmic ration in each cell
 	selectImage(watershed);
-	call("inra.ijpb.plugins.LabelToValuePlugin.process", "Table=" + images[i] +  "_Nuclear-to-cytoplasmic Ratios.csv", "Column=Ratio", "Min=0.0", "Max=10.0");
+	call("inra.ijpb.plugins.LabelToValuePlugin.process", "Table=" + results_name + ".csv", "Column=Ratio", "Min=0.0", "Max=10.0");
 	run("Assign Measure to Label");
 	run("gem");
 	// Generate a calibration bar for the visualisation
 	run("Calibration Bar...", "location=[Upper Right] fill=White label=Black number=5 decimal=0 font=12 zoom=1");
 	// Save the visualisation
-	saveAs("PNG", outputDir + File.separator() + images[i] +  "_Nuclear-to-cytoplasmic Ratios.png");
+	saveAs("PNG", outputDir + File.separator() + results_name + ".png");
 	// Close all open images
 	close("*");
 	close(images[i] +  "_Nuclear-to-cytoplasmic Ratios.csv");
