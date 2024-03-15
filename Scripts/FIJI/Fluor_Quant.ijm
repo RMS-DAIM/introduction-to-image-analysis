@@ -9,14 +9,25 @@
  * 
  */
 
+// Use batch mode so the script runs faster!
+setBatchMode(true);
+
 // Specify the input directory
 inputDir = "C:/Users/davej/GitRepos/Pages/introduction-to-image-analysis/Data/idr0028"
+
+// Specify output directory
+outputDir = "C:/Users/davej/GitRepos/Pages/introduction-to-image-analysis/Data/outputs"
 
 // Get the list of files in the input directory
 images = getFileList(inputDir);
 
+print("Input Diretory: " + inputDir);
+print("Output Diretory: " + outputDir);
+print("Number of Files: " + images.length);
+
 // Iterate over all files
-for (i = 0; i < 1; i++) {
+for (i = 0; i < images.length; i++) {
+	print("\nProcessing " + images[i]);
 	// Open each image with Bio-Formats (www.openmicroscopy.org/bio-formats) to ensure correct reading of metadata
 	run("Bio-Formats Importer", "open=[" + inputDir + File.separator() + images[i] + "] autoscale color_mode=Composite rois_import=[ROI manager] view=Hyperstack stack_order=XYCZT");
 	// Split the image into constituent channels - this could also be done in the step above via Bio-Formats
@@ -61,12 +72,20 @@ for (i = 0; i < 1; i++) {
 	cyto = getTitle();
 	// Measure fluorescent intensity in the nuclei
 	run("Intensity Measurements 2D/3D", "input=[" + fluor + "] labels=[" + nuc_labels + "] mean");
+	// Get the name of the results table
+	nuc_intens_table = Table.title();
 	// Save the mean intensities as a variable
 	nuc_intens = Table.getColumn("Mean");
+	// Close the results table
+	close(nuc_intens_table);
 	// Measure the fluorescence intensity in the cytoplasm
 	run("Intensity Measurements 2D/3D", "input=[" + fluor + "] labels=[" + cyto + "] mean");
+	// Get the name of the results table
+	cyto_intens_table = Table.title();
 	// Save the mean intensities as a variable
 	cyto_intens = Table.getColumn("Mean");
+	// Close the results table
+	close(cyto_intens_table);
 	// Create a table for the results
 	Table.create("Nuclear-to-cytoplasmic Ratios");
 	// Loop over all the values in the fluorescence intensities measured in the nuclei
@@ -76,16 +95,22 @@ for (i = 0; i < 1; i++) {
 		Table.set("Ratio", j, nuc_intens[j] / cyto_intens[j]);
 	}
 	// Save the results as a CSV file
-	saveAs("Results", "E:/OneDrive - The Francis Crick Institute/Training/RMS-DAIM-MSI Workshop/Outputs/Nuclear-to-cytoplasmic Ratios.csv");
+	saveAs("Results", outputDir + File.separator() + images[i] +  "_Nuclear-to-cytoplasmic Ratios.csv");
 	// Generate a visualisation of the results, based on the segmented cell image, using a look-up table based on the nuclear-to-cytoplasmic ration in each cell
 	selectImage(watershed);
-	call("inra.ijpb.plugins.LabelToValuePlugin.process", "Table=Nuclear-to-cytoplasmic Ratios.csv", "Column=Ratio", "Min=0.0", "Max=10.0");
+	call("inra.ijpb.plugins.LabelToValuePlugin.process", "Table=" + images[i] +  "_Nuclear-to-cytoplasmic Ratios.csv", "Column=Ratio", "Min=0.0", "Max=10.0");
 	run("Assign Measure to Label");
 	run("gem");
 	// Generate a calibration bar for the visualisation
 	run("Calibration Bar...", "location=[Upper Right] fill=White label=Black number=5 decimal=0 font=12 zoom=1");
 	// Save the visualisation
-	saveAs("PNG", "E:/OneDrive - The Francis Crick Institute/Training/RMS-DAIM-MSI Workshop/Outputs/C3-003003-10-watershed-Ratio with bar.png");
+	saveAs("PNG", outputDir + File.separator() + images[i] +  "_Nuclear-to-cytoplasmic Ratios.png");
 	// Close all open images
 	close("*");
+	close(images[i] +  "_Nuclear-to-cytoplasmic Ratios.csv");
 }
+
+// Exit batch mode
+setBatchMode(false);
+
+print("All Done!");
