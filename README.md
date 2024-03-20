@@ -6,7 +6,8 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 No fee will be charged for participation, but attendance is restricted to staff from The Crick, King's College London, University College London and Imperial College London.
 
-**The application deadline for this workshop has now passed.**
+> [!NOTE]
+> The application deadline for this workshop has now passed.
 
 # Instructors
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
