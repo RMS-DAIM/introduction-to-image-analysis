@@ -6,7 +6,6 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 No fee will be charged for participation, but attendance is restricted to staff from The Crick, King's College London, University College London and Imperial College London.
 
-> [!NOTE]
 > The application deadline for this workshop has now passed.
 
 # Instructors
@@ -16,6 +15,28 @@ No fee will be charged for participation, but attendance is restricted to staff 
 * [Vanessa Dao, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/vanessa-dao)
 
 # Provisional Program
+
+<table>
+    <tbody>
+        <tr>
+            <td colspan=3><b>Monday, April 8th</b></td>
+        </tr>
+        <tr>
+            <td>10:00 - 11:00</td>
+			<td>Session 1</td>
+            <td>Introduction to Image Analysis</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td colspan=3>
+                <ul>
+                    <li>Understanding the importance of image analysis in reproducible science</li>
+                    <li>Foundational concepts of image formation and quantification</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ### Monday, April 8th
 
