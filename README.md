@@ -16,28 +16,6 @@ No fee will be charged for participation, but attendance is restricted to staff 
 
 # Provisional Program
 
-<table>
-    <tbody>
-        <tr>
-            <td colspan=3><b>Monday, April 8th</b></td>
-        </tr>
-        <tr>
-            <td>10:00 - 11:00</td>
-			<td>Session 1</td>
-            <td>Introduction to Image Analysis</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td colspan=3>
-                <ul>
-                    <li>Understanding the importance of image analysis in reproducible science</li>
-                    <li>Foundational concepts of image formation and quantification</li>
-                </ul>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Monday, April 8th
 
 #### 10:00 - 11:00: Session 1 - Introduction to Image Analysis
