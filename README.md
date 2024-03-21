@@ -73,14 +73,25 @@ No fee will be charged for participation, but attendance is restricted to staff 
             <td>15:20 - 15:40</td>
             <td colspan=2>Coffee Break</td>
         </tr>
+	<tr>
+            <td>15:40 - 17:30</td>
+	    <td>Session 4</td>
+            <td>Introduction to Batch Processing</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td colspan=3>
+                <ul>
+                    <li>Practical Application: Record commands to form the basis of a script for automated processing and analysis</li>
+                </ul>
+            </td>
+        </tr>
+	<tr>
+            <td>17:30</td>
+            <td colspan=2>Pub</td>
+        </tr>
     </tbody>
 </table>
-
-#### 15:40 - 17:30: Session 4 - Introduction to Batch Processing
-
-* Practical Application: Record commands to form the basis of a script for automated processing and analysis
-
-#### 17:30: Pub!
 
 ### Tuesday, April 9th
 
