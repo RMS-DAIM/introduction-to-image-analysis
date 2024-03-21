@@ -56,12 +56,21 @@ No fee will be charged for participation, but attendance is restricted to staff 
             <td>13:00 - 14:00</td>
             <td colspan=2>Lunch</td>
         </tr>
+	<tr>
+            <td>14:00 - 15:20</td>
+	    <td>Session 3</td>
+            <td>Analysing Images</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td colspan=3>
+                <ul>
+                    <li>Practical Application: Quantifying morphology of objects in a 2D image</li>
+                </ul>
+            </td>
+        </tr>
     </tbody>
 </table>
-
-#### 14:00 - 15:20: Session 3 - Analysing Images
-
-* Practical Application: Quantifying morphology of objects in a 2D image.
 
 #### 15:20 - 15:40: Coffee Break
 
