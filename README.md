@@ -90,30 +90,62 @@ No fee will be charged for participation, but attendance is restricted to staff 
             <td>17:30</td>
             <td colspan=2>Pub</td>
         </tr>
+	<tr>
+            <td colspan=3><b>Tuesday, April 9th</b></td>
+        </tr>
+        <tr>
+            <td>09:30 - 10:30</td>
+	    <td>Session 5</td>
+            <td>Automating Pipelines</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td colspan=3>
+                <ul>
+                    <li>Understanding and using variables and loops</li>
+                    <li>Writing a structured image analysis pipeline</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>10:30 - 10:50</td>
+            <td colspan=2>Coffee Break</td>
+        </tr>
+       <tr>
+            <td>10:50 - 12:30</td>
+	    <td>Session 6</td>
+            <td>From Images to Numbers to Conclusions</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td colspan=3>
+                <ul>
+                    <li>Basic statistical concepts for image data analysis</li>
+		    <li>Techniques for effective data visualisation</li>
+		    <li>Drafting methods sections for scientific reproducibility</li>
+                </ul>
+            </td>
+        </tr>
+	<tr>
+            <td>12:30 - 13:30</td>
+            <td colspan=2>Lunch</td>
+        </tr>
+	<tr>
+            <td>13:30 - 15:30</td>
+	    <td>Session 7</td>
+            <td>Using Jupyter Notebooks for Reproducible Analysis</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td colspan=3>
+                <ul>
+                    <li>Writing and implementing a pipeline for batch quantification</li>
+		    <li>Visualising and interpreting results</li>
+                </ul>
+            </td>
+        </tr>
     </tbody>
 </table>
-
-### Tuesday, April 9th
-
-#### 09:30 - 10:30: Session 5 - Automating Pipelines
-
-* Understanding and using variables and loops.
-* Writing a structured image analysis pipeline.
-
-#### 10:30 - 10:50: Coffee Break
-
-#### 10:50 - 12:30: Session 6 - From Images to Numbers to Conclusions
-
-* Basic statistical concepts for image data analysis.
-* Techniques for effective data visualisation.
-* Drafting methods sections for scientific reproducibility.
-
-#### 12:30 - 13:30: Lunch
-
-#### 13:30 - 15:30: Session 7 - Using Jupyter Notebooks for Reproducible Analysis
-
-* Writing and implementing a pipeline for batch quantification.
-* Visualising and interpreting results.
 
 # FAQ
 
