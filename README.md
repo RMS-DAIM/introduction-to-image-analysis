@@ -19,7 +19,7 @@ No fee will be charged for participation, but attendance is restricted to staff 
 <table>
     <tbody>
         <tr>
-            <td colspan=3><b>Monday, April 8th</b></td>
+            <th colspan=3>Monday, April 8th</th>
         </tr>
         <tr>
             <td>10:00 - 11:00</td>
@@ -91,7 +91,7 @@ No fee will be charged for participation, but attendance is restricted to staff 
             <td colspan=2>Pub</td>
         </tr>
 	<tr>
-            <td colspan=3><b>Tuesday, April 9th</b></td>
+            <th colspan=3>Tuesday, April 9th</th>
         </tr>
         <tr>
             <td>09:30 - 10:30</td>
