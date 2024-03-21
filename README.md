@@ -69,10 +69,12 @@ No fee will be charged for participation, but attendance is restricted to staff 
                 </ul>
             </td>
         </tr>
+	<tr>
+            <td>15:20 - 15:40</td>
+            <td colspan=2>Coffee Break</td>
+        </tr>
     </tbody>
 </table>
-
-#### 15:20 - 15:40: Coffee Break
 
 #### 15:40 - 17:30: Session 4 - Introduction to Batch Processing
 
