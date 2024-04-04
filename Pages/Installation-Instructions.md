@@ -11,4 +11,9 @@ Please read the following instructions carefully to prepare for the workshop.
 3. Start FIJI and allow the updater to run - if the updater does not run automatically, select `Help > Update`
 4. If FIJI produces any error messages, it is most likely because it does not have the necessary permissions to update itself - return to step #2 and double-check the location of the installation.
 
-# Installing Conda
+# Installing conda
+
+1. Install Miniconda by following the installation instructions for your operating system at [this page](https://docs.anaconda.com/free/miniconda/miniconda-install/)
+2. Please check that the installation worked properly by opening the Terminal (MacOS) or Anaconda Prompt (Windows) and typing `conda list`. If conda has been installed correctly, a list of installed packages appears.
+
+
