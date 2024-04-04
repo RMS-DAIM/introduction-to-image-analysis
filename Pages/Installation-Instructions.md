@@ -15,5 +15,8 @@ Please read the following instructions carefully to prepare for the workshop.
 
 1. Install Miniconda by following the installation instructions for your operating system at [this page](https://docs.anaconda.com/free/miniconda/miniconda-install/)
 2. Please check that the installation worked properly by opening the Terminal (MacOS) or Anaconda Prompt (Windows) and typing `conda list`. If conda has been installed correctly, a list of installed packages appears.
-
+3. Switch to the faster `libmamba` solver, by updating conda and then installing and activating the solver. Do so by typing the following command in the Terminal/Anaconda Prompt one at a time and pressing Enter after each one:
+`conda update -n base conda`
+`conda install -n base conda-libmamba-solver`
+`conda config --set solver libmamba`
 
