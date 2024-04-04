@@ -1,6 +1,10 @@
-Please read the following instructions carefully to prepare for the workshop.
+# Preparation For Introduction to Image Analysis Workshop
 
-# Installing FIJI
+Please read the following instructions carefully to prepare for the workshop. Completing these steps prior to the workshop is essential to ensure we stay on schedule. If you are having any trouble with the below instructions, please reach out for help:
+* For issues with FIJI, contact Dave (David.Barry@crick.ac.uk)
+* For conda issues, contact Stefania (stefania.marcotti@kcl.ac.uk)
+
+## Installing FIJI
 
 1. Download FIJI from [here](https://fiji.sc/).
 
@@ -23,7 +27,7 @@ Please read the following instructions carefully to prepare for the workshop.
 
 5. If FIJI produces any error messages, it is most likely because it does not have the necessary permissions to update itself - return to step #2 and double-check the location of the installation.
 
-# Installing conda
+## Installing conda
 
 1. Install Miniconda by following the installation instructions for your operating system at [this page](https://docs.anaconda.com/free/miniconda/miniconda-install/)
 2. Please check that the installation worked properly by opening the Terminal (MacOS) or Anaconda Prompt (Windows) and typing `conda list`. If conda has been installed correctly, a list of installed packages appears.
