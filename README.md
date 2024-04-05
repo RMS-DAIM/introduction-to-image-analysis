@@ -57,7 +57,7 @@ No fee will be charged for participation, but attendance is restricted to staff 
             <td colspan=2>Lunch</td>
         </tr>
 	<tr>
-            <td>14:00 - 15:20</td>
+            <td>14:00 - 15:30</td>
 	    <td>Session 3</td>
             <td>Analysing Images</td>
         </tr>
