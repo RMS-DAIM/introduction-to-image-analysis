@@ -113,8 +113,8 @@ No fee will be charged for participation, but attendance is restricted to staff 
         </tr>
        <tr>
             <td>10:50 - 12:30</td>
-	    <td>Session 6</td>
-            <td>Using Jupyter Notebooks for Reproducible Analysis</td>
+	    <td><a href="https://docs.google.com/presentation/d/1ghB88dNFzSSkx9jIqTZSMl7P6i-z16qg0y8drCSgSAc/edit?usp=sharing">Session 6</a></td>
+            <td><a href="https://docs.google.com/presentation/d/1ghB88dNFzSSkx9jIqTZSMl7P6i-z16qg0y8drCSgSAc/edit?usp=sharing">Using Jupyter Notebooks for Reproducible Analysis</a></td>
         </tr>
         <tr>
             <td></td>
