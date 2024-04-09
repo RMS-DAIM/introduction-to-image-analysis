@@ -95,8 +95,8 @@ No fee will be charged for participation, but attendance is restricted to staff 
         </tr>
         <tr>
             <td>09:30 - 10:30</td>
-	    <td>Session 5</td>
-            <td>Introduction to Python and installations</td>
+	    <td><a href="https://docs.google.com/presentation/d/1tZrQ_Fh0yRKLIcUq360AWxDV7H9vvMLF8n29NewDyy8/edit?usp=sharing">Session 5</a></td>
+            <td><a href="https://docs.google.com/presentation/d/1tZrQ_Fh0yRKLIcUq360AWxDV7H9vvMLF8n29NewDyy8/edit?usp=sharing">Introduction to Python and installations</a></td>
         </tr>
         <tr>
             <td></td>
