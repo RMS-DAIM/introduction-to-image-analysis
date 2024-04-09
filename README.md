@@ -41,8 +41,8 @@ No fee will be charged for participation, but attendance is restricted to staff 
         </tr>
        <tr>
             <td>11:15 - 13:00</td>
-			<td>Session 2</td>
-            <td>Image Pre-Processing & Segmentation</td>
+			<td><a href="https://docs.google.com/presentation/d/1tOAc9vLiFgEtMHrboyywG2ZZgw7ovEdMVM37h9fNiuE/edit?usp=sharing">Session 2</a></td>
+            <td><a href="https://docs.google.com/presentation/d/1tOAc9vLiFgEtMHrboyywG2ZZgw7ovEdMVM37h9fNiuE/edit?usp=sharing">Image Pre-Processing & Segmentation</a></td>
         </tr>
         <tr>
             <td></td>
