@@ -74,9 +74,9 @@ No fee will be charged for participation, but attendance is restricted to staff 
             <td colspan=2>Coffee Break</td>
         </tr>
 	<tr>
-            <td>15:50 - 17:30</td> https://docs.google.com/presentation/d/1ZYchnWHYEyAjeDNridXgLME398FsrJRPfCJmeBJJbvk/edit?usp=sharing
-	    <td><a href="https://docs.google.com/presentation/d/1jZB87LbvVeIhEhGfahTZkpSlOA7httCLci6v8MvNIPw/edit?usp=sharing">Session 4</a></td>
-            <td><a href="https://docs.google.com/presentation/d/1jZB87LbvVeIhEhGfahTZkpSlOA7httCLci6v8MvNIPw/edit?usp=sharing">Introduction to Batch Processing</a></td>
+            <td>15:50 - 17:30</td> 
+	    <td><a href="https://docs.google.com/presentation/d/1ZYchnWHYEyAjeDNridXgLME398FsrJRPfCJmeBJJbvk/edit?usp=sharing">Session 4</a></td>
+            <td><a href="https://docs.google.com/presentation/d/1ZYchnWHYEyAjeDNridXgLME398FsrJRPfCJmeBJJbvk/edit?usp=sharing">Introduction to Batch Processing</a></td>
         </tr>
         <tr>
             <td></td>
