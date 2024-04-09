@@ -23,8 +23,8 @@ No fee will be charged for participation, but attendance is restricted to staff 
         </tr>
         <tr>
             <td>10:00 - 11:00</td>
-			<td>Session 1</td>
-            <td>Introduction to Image Analysis</td>
+			<td><a href="https://docs.google.com/presentation/d/14rFTI_36FiS6uMTFhOj12K8n2JLP0Ozx_Hb9OohTD8o/edit?usp=sharing">Session 1</a></td>
+            <td><a href="https://docs.google.com/presentation/d/14rFTI_36FiS6uMTFhOj12K8n2JLP0Ozx_Hb9OohTD8o/edit?usp=sharing">Introduction to Image Analysis</a></td>
         </tr>
         <tr>
             <td></td>
