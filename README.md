@@ -131,8 +131,8 @@ No fee will be charged for participation, but attendance is restricted to staff 
         </tr>
 	<tr>
             <td>13:30 - 15:30</td>
-	    <td>Session 7</td>
-            <td>Using napari as an image analysis tool and as a viewer</td>
+	    <td><a href="https://docs.google.com/presentation/d/1DOQpYisUYEn-c6750O5H3TDBZ4fx5kCwiMwS4M5gU-U/edit?usp=sharing">Session 7</a></td>
+            <td><a href="https://docs.google.com/presentation/d/1DOQpYisUYEn-c6750O5H3TDBZ4fx5kCwiMwS4M5gU-U/edit?usp=sharing">Using napari as an image analysis tool and as a viewer</a></td>
         </tr>
         <tr>
             <td></td>
