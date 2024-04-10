@@ -23,8 +23,8 @@ No fee will be charged for participation, but attendance is restricted to staff 
         </tr>
         <tr>
             <td>10:00 - 11:00</td>
-			<td><a href="https://docs.google.com/presentation/d/14rFTI_36FiS6uMTFhOj12K8n2JLP0Ozx_Hb9OohTD8o/edit?usp=sharing">Session 1</a></td>
-            <td><a href="https://docs.google.com/presentation/d/14rFTI_36FiS6uMTFhOj12K8n2JLP0Ozx_Hb9OohTD8o/edit?usp=sharing">Introduction to Image Analysis</a></td>
+			<td>Session 1</td>
+            <td>Introduction to Image Analysis</td>
         </tr>
         <tr>
             <td></td>
@@ -41,8 +41,8 @@ No fee will be charged for participation, but attendance is restricted to staff 
         </tr>
        <tr>
             <td>11:15 - 13:00</td>
-			<td><a href="https://docs.google.com/presentation/d/1tOAc9vLiFgEtMHrboyywG2ZZgw7ovEdMVM37h9fNiuE/edit?usp=sharing">Session 2</a></td>
-            <td><a href="https://docs.google.com/presentation/d/1tOAc9vLiFgEtMHrboyywG2ZZgw7ovEdMVM37h9fNiuE/edit?usp=sharing">Image Pre-Processing & Segmentation</a></td>
+			<td>Session 2</td>
+            <td>Image Pre-Processing & Segmentation</td>
         </tr>
         <tr>
             <td></td>
@@ -58,8 +58,8 @@ No fee will be charged for participation, but attendance is restricted to staff 
         </tr>
 	<tr>
             <td>14:00 - 15:30</td> 
-	    <td><a href="https://docs.google.com/presentation/d/1jZB87LbvVeIhEhGfahTZkpSlOA7httCLci6v8MvNIPw/edit?usp=sharing">Session 3</a></td>
-            <td><a href="https://docs.google.com/presentation/d/1jZB87LbvVeIhEhGfahTZkpSlOA7httCLci6v8MvNIPw/edit?usp=sharing">Analysing Images</a></td>
+	    <td>Session 3</td>
+            <td>Analysing Images</td>
         </tr>
         <tr>
             <td></td>
@@ -75,8 +75,8 @@ No fee will be charged for participation, but attendance is restricted to staff 
         </tr>
 	<tr>
             <td>15:50 - 17:30</td> 
-	    <td><a href="https://docs.google.com/presentation/d/1ZYchnWHYEyAjeDNridXgLME398FsrJRPfCJmeBJJbvk/edit?usp=sharing">Session 4</a></td>
-            <td><a href="https://docs.google.com/presentation/d/1ZYchnWHYEyAjeDNridXgLME398FsrJRPfCJmeBJJbvk/edit?usp=sharing">Introduction to Batch Processing</a></td>
+	    <td>Session 4</td>
+            <td>Introduction to Batch Processing</td>
         </tr>
         <tr>
             <td></td>
@@ -95,8 +95,8 @@ No fee will be charged for participation, but attendance is restricted to staff 
         </tr>
         <tr>
             <td>09:30 - 10:30</td>
-	    <td><a href="https://docs.google.com/presentation/d/1tZrQ_Fh0yRKLIcUq360AWxDV7H9vvMLF8n29NewDyy8/edit?usp=sharing">Session 5</a></td>
-            <td><a href="https://docs.google.com/presentation/d/1tZrQ_Fh0yRKLIcUq360AWxDV7H9vvMLF8n29NewDyy8/edit?usp=sharing">Introduction to Python and installations</a></td>
+	    <td>Session 5</td>
+            <td>Introduction to Python and installations</td>
         </tr>
         <tr>
             <td></td>
@@ -113,8 +113,8 @@ No fee will be charged for participation, but attendance is restricted to staff 
         </tr>
        <tr>
             <td>10:50 - 12:30</td>
-	    <td><a href="https://docs.google.com/presentation/d/1ghB88dNFzSSkx9jIqTZSMl7P6i-z16qg0y8drCSgSAc/edit?usp=sharing">Session 6</a></td>
-            <td><a href="https://docs.google.com/presentation/d/1ghB88dNFzSSkx9jIqTZSMl7P6i-z16qg0y8drCSgSAc/edit?usp=sharing">Using Jupyter Notebooks for Reproducible Analysis</a></td>
+	    <td>Session 6</td>
+            <td>Using Jupyter Notebooks for Reproducible Analysis</td>
         </tr>
         <tr>
             <td></td>
@@ -131,8 +131,8 @@ No fee will be charged for participation, but attendance is restricted to staff 
         </tr>
 	<tr>
             <td>13:30 - 15:30</td>
-	    <td><a href="https://docs.google.com/presentation/d/1DOQpYisUYEn-c6750O5H3TDBZ4fx5kCwiMwS4M5gU-U/edit?usp=sharing">Session 7</a></td>
-            <td><a href="https://docs.google.com/presentation/d/1DOQpYisUYEn-c6750O5H3TDBZ4fx5kCwiMwS4M5gU-U/edit?usp=sharing">Using napari as an image analysis tool and as a viewer</a></td>
+	    <td>Session 7</td>
+            <td>Using napari as an image analysis tool and as a viewer</td>
         </tr>
         <tr>
             <td></td>
@@ -152,6 +152,14 @@ No fee will be charged for participation, but attendance is restricted to staff 
 The worskshop will take place in Lecture Theatre 4, Bush House (South East Wing), King's College, London WC2B 4PJ:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d268.6444210385986!2d-0.11638704814937834!3d51.51262409625885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604b577041ded%3A0x10e0061ffb82ba06!2sBush%20House%20South%20East%20Wing%2C%20King&#39;s%20College%20London!5e0!3m2!1sen!2suk!4v1712514676641!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+# Slides
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10952549.svg)](https://doi.org/10.5281/zenodo.10952549)
+
+All of the presentation material for this workshop is available on Zenodo and can be referenced as follows:
+
+Barry, D. J., Jones, M. and Marcotti, S. (2024) Introduction to Image Analysis. _Zenodo_. doi: https://doi.org/10.5281/zenodo.10952549
 
 # FAQ
 
