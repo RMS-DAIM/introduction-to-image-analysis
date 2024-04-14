@@ -149,7 +149,7 @@ No fee will be charged for participation, but attendance is restricted to staff 
 
 # Venue
 
-The worskshop will take place in Lecture Theatre 4, Bush House (South East Wing), King's College, London WC2B 4PJ:
+The workshop will take place in Lecture Theatre 4, Bush House (South East Wing), King's College, London WC2B 4PJ:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d268.6444210385986!2d-0.11638704814937834!3d51.51262409625885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604b577041ded%3A0x10e0061ffb82ba06!2sBush%20House%20South%20East%20Wing%2C%20King&#39;s%20College%20London!5e0!3m2!1sen!2suk!4v1712514676641!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
