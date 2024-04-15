@@ -18,8 +18,12 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
         <tr>
             <th colspan=3>Wednesday, April 24th</th>
         </tr>
+	<tr>
+        	<td>09:30 - 10:30</td>
+		<td colspan=3> Registration</td>
+        </tr>
         <tr>
-            <td>10:00 - 11:00</td>
+            <td>10:30 - 11:30</td>
 			<td>Session 1</td>
             <td>Introduction to Image Analysis</td>
         </tr>
@@ -33,11 +37,11 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
             </td>
         </tr>
         <tr>
-            <td>11:00 - 11:15</td>
+            <td>11:30 - 11:45</td>
             <td colspan=2>Coffee Break</td>
         </tr>
        <tr>
-            <td>11:15 - 13:00</td>
+            <td>11:45 - 13:30</td>
 			<td>Session 2</td>
             <td>Image Pre-Processing & Segmentation</td>
         </tr>
@@ -50,11 +54,11 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
             </td>
         </tr>
 	<tr>
-            <td>13:00 - 14:00</td>
+            <td>13:30 - 14:30</td>
             <td colspan=2>Lunch</td>
         </tr>
 	<tr>
-            <td>14:00 - 15:30</td> 
+            <td>14:30 - 16:00</td> 
 	    <td>Session 3</td>
             <td>Analysing Images</td>
         </tr>
@@ -67,11 +71,11 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
             </td>
         </tr>
 	<tr>
-            <td>15:30 - 15:50</td>
+            <td>16:00 - 16:20</td>
             <td colspan=2>Coffee Break</td>
         </tr>
 	<tr>
-            <td>15:50 - 17:30</td> 
+            <td>16:20 - 18:00</td> 
 	    <td>Session 4</td>
             <td>Introduction to Batch Processing</td>
         </tr>
@@ -84,8 +88,9 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
             </td>
         </tr>
 	<tr>
-            <td>17:30</td>
-            <td colspan=2>Pub</td>
+            	<td>18:00 - ?</td>
+            	<td>Evening Social</td>
+		<td><a href=https://galwaybaybrewery.com/againstthegrain> Against the Grain</a>, 11 Wexford St, Dublin, D02 HY84</td>
         </tr>
 	<tr>
             <th colspan=3>Thursday, April 25th</th>
@@ -150,7 +155,7 @@ The workshop will take place in the Royal College of Surgeons in Ireland, 123 St
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1191.1111825530415!2d-6.2625410119408595!3d53.33927557919478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e9e94070b7b%3A0xd480ab326993b5ef!2sRoyal%20College%20of%20Surgeons%20in%20Ireland%20(RCSI)!5e0!3m2!1sen!2suk!4v1713202098336!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-_Note that the building entrance is on York Street._
+**Note that the building entrance is on York Street.** The workshop room will be sign-posted from the main entrance.
 
 # FAQ
 
