@@ -162,4 +162,4 @@ The workshop will take place in the Royal College of Surgeons in Ireland, 123 St
 
     While some basic knowledge would be helpful, it's not essential and even if you have no knowledge of python, Jupyter notebooks or FIJI scripts/macros, you should still apply.
 
-![Logos](./Resources/Combined_Logos.png)
+![Logos](./Resources/Logos.png)
