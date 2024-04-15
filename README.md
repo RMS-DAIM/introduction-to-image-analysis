@@ -4,22 +4,19 @@
 
 In this workshop, we will bridge the gap between advanced microscopy data generation and the computational skills required for its analysis. By leveraging open-source tools like [FIJI](https://fiji.sc) and [napari](https://napari.org), participants will learn to automate image analysis, enhancing the precision, efficiency, and reproducibility of their research. This two-day event, led by experienced core facility staff from the Francis Crick Institute and King's College London, offers a practical approach to mastering quantitative analysis and workflow automation, essential for advancing research across multiple domains.
 
-No fee will be charged for participation, but attendance is restricted to staff from The Crick, King's College London, University College London and Imperial College London.
-
 > The application deadline for this workshop has now passed.
 
 # Instructors
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
 * [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
 * [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
-* [Vanessa Dao, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/vanessa-dao)
 
 # Program
 
 <table>
     <tbody>
         <tr>
-            <th colspan=3>Monday, April 8th</th>
+            <th colspan=3>Wednesday, April 24th</th>
         </tr>
         <tr>
             <td>10:00 - 11:00</td>
@@ -91,7 +88,7 @@ No fee will be charged for participation, but attendance is restricted to staff 
             <td colspan=2>Pub</td>
         </tr>
 	<tr>
-            <th colspan=3>Tuesday, April 9th</th>
+            <th colspan=3>Thursday, April 25th</th>
         </tr>
         <tr>
             <td>09:30 - 10:30</td>
@@ -149,17 +146,11 @@ No fee will be charged for participation, but attendance is restricted to staff 
 
 # Venue
 
-The workshop will take place in Lecture Theatre 4, Bush House (South East Wing), King's College, London WC2B 4PJ:
+The workshop will take place in the Royal College of Surgeons in Ireland, 123 St Stephen's Green, Dublin 2, D02 YN77:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d268.6444210385986!2d-0.11638704814937834!3d51.51262409625885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604b577041ded%3A0x10e0061ffb82ba06!2sBush%20House%20South%20East%20Wing%2C%20King&#39;s%20College%20London!5e0!3m2!1sen!2suk!4v1712514676641!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1191.1111825530415!2d-6.2625410119408595!3d53.33927557919478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e9e94070b7b%3A0xd480ab326993b5ef!2sRoyal%20College%20of%20Surgeons%20in%20Ireland%20(RCSI)!5e0!3m2!1sen!2suk!4v1713202098336!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-# Slides
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10952549.svg)](https://doi.org/10.5281/zenodo.10952549)
-
-All of the presentation material for this workshop is available on Zenodo and can be referenced as follows:
-
-Barry, D. J., Jones, M. and Marcotti, S. (2024) Introduction to Image Analysis. _Zenodo_. doi: https://doi.org/10.5281/zenodo.10952549
+*Note that the building entrance is on York Street.*
 
 # FAQ
 
