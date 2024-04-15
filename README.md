@@ -148,9 +148,9 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 The workshop will take place in the Royal College of Surgeons in Ireland, 123 St Stephen's Green, Dublin 2, D02 YN77:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1191.1111825530415!2d-6.2625410119408595!3d53.33927557919478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e9e94070b7b%3A0xd480ab326993b5ef!2sRoyal%20College%20of%20Surgeons%20in%20Ireland%20(RCSI)!5e0!3m2!1sen!2suk!4v1713202098336!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1191.1111825530415!2d-6.2625410119408595!3d53.33927557919478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e9e94070b7b%3A0xd480ab326993b5ef!2sRoyal%20College%20of%20Surgeons%20in%20Ireland%20(RCSI)!5e0!3m2!1sen!2suk!4v1713202098336!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-*Note that the building entrance is on York Street.*
+_Note that the building entrance is on York Street._
 
 # FAQ
 
