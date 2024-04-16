@@ -18,11 +18,11 @@ Please read the following instructions carefully to prepare for the workshop. Co
 
 3. Start FIJI and allow the updater to run:
 
-![FIJI Webpage](/assets/Updater.png)
+![FIJI Webpage](https://github.com/RMS-DAIM/introduction-to-image-analysis/raw/dublin-2024.04.24/assets/Updater.png)
 
 4. (Optional) If the updater does not run automatically, select `Help > Update`:
 
-![FIJI Webpage](/assets/Run_Updater.png)
+![FIJI Webpage](https://github.com/RMS-DAIM/introduction-to-image-analysis/raw/dublin-2024.04.24/assets/Run_Updater.png)
 
 5. If FIJI produces any error messages, it is most likely because it does not have the necessary permissions to update itself - return to step #2 and double-check the location of the installation.
 
