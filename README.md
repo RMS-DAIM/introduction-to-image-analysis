@@ -178,5 +178,5 @@ At 18:00 on Wednesday the 24th, we will walk a few hundred metres to Against the
 </p>
 
 <p align="center">
-	<img width="30.5%" src="./Resources/COB_Logo.jpg" alt="COB Logo"> <img width="30.5%" src="./Resources/RCSI_Logo.png" alt="RCSI Logo"> <img width="37.5%" src="./Resources/UoGalway_Logo.png" alt="UoG Logo">
+	<img width="30.5%" src="./Resources/COB_Logo.jpg" alt="COB Logo"> <img width="30.5%" src="./Resources/RCSI_Logo.png" alt="RCSI Logo"> <img width="30%" src="./Resources/CZI_Logo.png" alt="CZI Logo">
 </p>
