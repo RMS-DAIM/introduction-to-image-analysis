@@ -14,6 +14,12 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 * [Brenton Cavanagh, Royal College of Surgeons in Ireland](https://www.rcsi.com/people/profile/brentoncavanagh)
 * Mohammadreza Azimi, Royal College of Surgeons in Ireland
 
+# Preparation
+
+1. Please remember to bring your laptop (and charger).
+2. Please install the required software beforehand: follow the installation instructions on [this page](Pages/Installation-Instructions.md) before the workshop to install Fiji and conda on your laptop
+3. **PLEASE CONTACT US BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH THE ABOVE.**
+
 # Program
 
 **Please note that all catering, as well as attendance of the social on the evening of the 24th, is covered by your registration fee.**
