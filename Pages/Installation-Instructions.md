@@ -33,11 +33,12 @@ Please read the following instructions carefully to prepare for the workshop. Co
 2. Please check that the installation worked properly by opening the Terminal (MacOS) or Anaconda Prompt (Windows) and typing `conda list`. If conda has been installed correctly, a list of installed packages appears.
 
 FAQ: "What should I do if I already have `conda` installed on my machine?"
+
 Please make sure that your `conda` installation is up to date. To do so, run the following command:
 ```
 conda --version
 ```
-If this returns a version older than `23.10.0`, please update your `conda` by running
+If this returns a version older than `23.10.0`, please update your `conda` by running:
 ```
 conda update -n base conda
 ```
