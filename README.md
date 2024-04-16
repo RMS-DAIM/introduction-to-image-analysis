@@ -18,7 +18,8 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 1. Please remember to bring your laptop (and charger).
 2. Please install the required software beforehand: follow the installation instructions on [this page](Pages/Installation-Instructions.md) before the workshop to install Fiji and conda on your laptop
-3. **PLEASE CONTACT US BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH THE ABOVE.**
+3. Download the workshop data by clicking on the link to the ZIP archive at the top of this page.
+4. **PLEASE CONTACT US BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH THE ABOVE.**
 
 # Program
 
@@ -191,7 +192,7 @@ At 18:00 on Wednesday the 24th, we will walk a few hundred metres to Against the
     While some basic knowledge would be helpful, it's not essential and even if you have no knowledge of python, Jupyter notebooks or FIJI scripts/macros, you should still apply.
 
 <p align="center">
-	<img width="42%" src="./Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="20%" src="./Resources/MSI_Logo.gif" alt="MSI Logo"> <img width="14%" src="./Resources/CRICK_Logo.png" alt="Crick Logo"> <img width="20%" src="./Resources/KCL_Logo.png" alt="KCL Logo">
+	<img width="42%" src="./Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="20%" src="./Resources/MSI_Logo.jpg" alt="MSI Logo"> <img width="14%" src="./Resources/CRICK_Logo.png" alt="Crick Logo"> <img width="20%" src="./Resources/KCL_Logo.png" alt="KCL Logo">
 </p>
 
 <p align="center">
