@@ -178,5 +178,5 @@ At 18:00 on Wednesday the 24th, we will walk a few hundred metres to Against the
 </p>
 
 <p align="center">
-	<img width="33%" src="./Resources/COB_Logo.jpg" alt="COB Logo"> <img width="33%" src="./Resources/RCSI_Logo.png" alt="RCSI Logo"> <img width="32.6%" src="./Resources/CZI_Logo.png" alt="CZI Logo">
+	<img width="33%" src="./Resources/COB_Logo.jpg" alt="COB Logo"> <img width="30.5%" src="./Resources/RCSI_Logo.png" alt="RCSI Logo"> <img width="32.6%" src="./Resources/CZI_Logo.png" alt="CZI Logo">
 </p>
