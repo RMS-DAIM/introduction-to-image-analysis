@@ -191,9 +191,9 @@ At 18:00 on Wednesday the 24th, we will walk a few hundred metres to Against the
     While some basic knowledge would be helpful, it's not essential and even if you have no knowledge of python, Jupyter notebooks or FIJI scripts/macros, you should still apply.
 
 <p align="center">
-	<img width="55%" src="./Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="17%" src="./Resources/CRICK_Logo.png" alt="Crick Logo"> <img width="24.5%" src="./Resources/KCL_Logo.png" alt="KCL Logo">
+	<img width="42%" src="./Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="20%" src="./Resources/MSI_Logo.gif" alt="MSI Logo"> <img width="14%" src="./Resources/CRICK_Logo.png" alt="Crick Logo"> <img width="20%" src="./Resources/KCL_Logo.png" alt="KCL Logo">
 </p>
 
 <p align="center">
-	<img width="33%" src="./Resources/COB_Logo.jpg" alt="COB Logo"> <img width="30.5%" src="./Resources/RCSI_Logo.png" alt="RCSI Logo"> <img width="32.6%" src="./Resources/CZI_Logo.png" alt="CZI Logo">
+	<img width="25%" src="./Resources/COB_Logo.jpg" alt="COB Logo"> <img width="25%" src="./Resources/RCSI_Logo.png" alt="RCSI Logo"> <img width="20%" src="./Resources/CZI_Logo.png" alt="CZI Logo"> <img width="20%" src="./Resources/UoG_Logo.png" alt="Univesity of Galway Logo">
 </p>
