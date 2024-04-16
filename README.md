@@ -173,4 +173,10 @@ At 18:00 on Wednesday the 24th, we will walk a few hundred metres to Against the
 
     While some basic knowledge would be helpful, it's not essential and even if you have no knowledge of python, Jupyter notebooks or FIJI scripts/macros, you should still apply.
 
-![Logos](./Resources/Logos.png)
+<p align="center">
+	<img width="55%" src="./Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="17%" src="./Resources/CRICK_Logo.png" alt="Crick Logo"> <img width="24.5%" src="./Resources/KCL_Logo.png" alt="KCL Logo">
+</p>
+
+<p align="center">
+	<img width="30.5%" src="./Resources/COB_Logo.jpg" alt="COB Logo"> <img width="30.5%" src="./Resources/RCSI_Logo.png" alt="RCSI Logo"> <img width="37.5%" src="./Resources/UoGalway_Logo.png" alt="UoG Logo">
+</p>
