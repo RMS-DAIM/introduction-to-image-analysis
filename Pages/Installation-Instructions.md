@@ -14,7 +14,7 @@ Please read the following instructions carefully to prepare for the workshop. Co
    * PC: `C:\users\<your user name>`
    * Mac: `/Users/<your user name>`
 
-> **WARNING: FIJI *must* be installed in a location where it has write permission - otherwise, it cannot update itself**
+   > **WARNING: FIJI *must* be installed in a location where it has write permission - otherwise, it cannot update itself**
 
 3. Start FIJI and allow the updater to run:
 
