@@ -8,14 +8,13 @@ Please read the following instructions carefully to prepare for the workshop. Co
 
 1. Download FIJI from [here](https://fiji.sc/).
 
-![FIJI Webpage](/assets/FIJI.png)
+![FIJI Webpage](https://github.com/RMS-DAIM/introduction-to-image-analysis/raw/dublin-2024.04.24/assets/FIJI.png)
 
 2. To avoid any permissions issues, install FIJI is in your home directory:
   * PC: `C:\users\<your user name>`
   * Mac: `/Users/<your user name>`
 
-> [!WARNING]
-> FIJI *must* be installed in a location where it has write permission - otherwise, it cannot update itself
+> **WARNING: FIJI *must* be installed in a location where it has write permission - otherwise, it cannot update itself**
 
 3. Start FIJI and allow the updater to run:
 
