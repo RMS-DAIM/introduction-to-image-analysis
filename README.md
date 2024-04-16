@@ -10,6 +10,9 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
 * [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
 * [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
+* [Temilade Adegoke, University of Limerick](https://www.ul.ie/bernal/temilade-adegoke)
+* [Brenton Cavanagh, Royal College of Surgeons in Ireland](https://www.rcsi.com/people/profile/brentoncavanagh)
+* Mohammadreza Azimi, Royal College of Surgeons in Ireland
 
 # Program
 
@@ -162,6 +165,14 @@ The workshop will take place in the Royal College of Surgeons in Ireland, 123 St
 At 18:00 on Wednesday the 24th, we will walk a few hundred metres to Against the Grain, 11 Wexford St, Dublin, D02 HY84 for food and drinks - we have an area reseved on the 1st floor:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2382.345731538679!2d-6.268058322993518!3d53.33706707541738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e9fd2a70a05%3A0x759ae9759599eae6!2sAgainst%20the%20Grain!5e0!3m2!1sen!2suk!4v1713208125766!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+# Organisers
+* [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
+* [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
+* [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
+* [Heiko Duessman, Royal College of Surgeons in Ireland](https://www.rcsi.com/people/profile/hduessmann)
+* [Kerry Thompson, University of Galway](https://www.universityofgalway.ie/our-research/people/kerrythompson)
+* [Emma McDermott, University of Galway](https://www.universityofgalway.ie/imaging/ourpeopleandcontacts)
 
 # FAQ
 
