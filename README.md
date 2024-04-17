@@ -25,7 +25,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 **Please note that all catering, as well as attendance of the social on the evening of the 24th, is covered by your registration fee.**
 
-<table>
+<table style="width:100%">
 	<tbody>
 		<tr>
 			<th colspan=3>Wednesday, April 24th</th>
