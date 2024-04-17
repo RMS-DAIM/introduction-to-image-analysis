@@ -35,7 +35,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td colspan=3> Registration</td>
 		</tr>
 		<tr>
-			<td>10:30 - 11:30</td>
+			<td>10:30 - 11:45</td>
 			<td>Session 1</td>
 			<td>Introduction - Automated Image Analysis is Essential for Reproducible Science</td>
 		</tr>
@@ -44,17 +44,17 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td colspan=3>
 				<ul>
 					<li>Why manual analysis is a bad idea</li>
-					<li>Enbracing uncertainty</li>
-					<li>What is metadata and why do uou need it</li>
+					<li>Embracing uncertainty</li>
+					<li>What is metadata and why do you need it</li>
 				</ul>
 			</td>
 		</tr>
 		<tr>
-			<td>11:30 - 11:45</td>
+			<td>11:45 - 12:00</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>11:45 - 13:30</td>
+			<td>12:00 - 13:30</td>
 			<td>Session 2</td>
 			<td>Image Pre-Processing, Segmentation & Analysis</td>
 		</tr>
@@ -62,7 +62,6 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Basic quality control checks you should perform</li>
 					<li>Practical Applications:</li>
 					<ul>
 						<li>Basic segmentation using thresholding</li>
@@ -94,11 +93,11 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			</td>
 		</tr>
 		<tr>
-			<td>16:00 - 16:20</td>
+			<td>16:00 - 16:15</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>16:20 - 18:00</td> 
+			<td>16:15 - 18:00</td> 
 			<td>Session 4</td>
 			<td>Introduction to Batch Processing</td>
 		</tr>
@@ -130,7 +129,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td></td>
 			<td colspan=3>
 				<ul>
-					<li>Creating Pyton environments</li>
+					<li>Creating Python environments</li>
 					<li>Installing Jupyter notebooks and napari</li>
 				</ul>
 			</td>
