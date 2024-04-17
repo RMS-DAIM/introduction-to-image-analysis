@@ -19,7 +19,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 1. Please remember to bring your laptop (and charger).
 2. Please install the required software beforehand: follow the installation instructions on [this page](Pages/Installation-Instructions.md) before the workshop to install Fiji and conda on your laptop
 3. Download the workshop data by clicking on the link to the ZIP archive at the top of this page.
-4. **PLEASE CONTACT US BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH THE ABOVE.**
+4. **PLEASE CONTACT US BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
 
 # Program
 
@@ -37,14 +37,15 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
         <tr>
             <td>10:30 - 11:30</td>
 			<td>Session 1</td>
-            <td>Introduction to Image Analysis</td>
+            <td>Introduction - Automated Image Analysis is Essential for Reproducible Science</td>
         </tr>
         <tr>
             <td></td>
             <td colspan=3>
                 <ul>
-                    <li>Understanding the importance of image analysis in reproducible science</li>
-                    <li>Foundational concepts of image formation and quantification</li>
+                    <li>Why manual analysis is a bad idea</li>
+		    <li>Enbracing uncertainty</li>
+		    <li>What is metadata and why do uou need it</li>
                 </ul>
             </td>
         </tr>
@@ -55,13 +56,19 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
        <tr>
             <td>11:45 - 13:30</td>
 			<td>Session 2</td>
-            <td>Image Pre-Processing & Segmentation</td>
+            <td>Image Pre-Processing, Segmentation & Analysis</td>
         </tr>
         <tr>
             <td></td>
             <td colspan=3>
                 <ul>
-                    <li>Practical Application: Image filtering and basic image segmentation.</li>
+                    <li>Basic quality control checks you should perform</li>
+		    <li>Practical Applications:</li>
+		    <ul>
+		    	<li>Basic segmentation using thresholding</li>
+	            	<li>Use of filtering to suppress noise</li>
+		    	<li>Obtaining numbers from images</li>
+		    </ul>
                 </ul>
             </td>
         </tr>
@@ -72,13 +79,16 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 	<tr>
             <td>14:30 - 16:00</td> 
 	    <td>Session 3</td>
-            <td>Analysing Images</td>
+            <td>Assembling Pipelines and Interpreting Results</td>
         </tr>
         <tr>
             <td></td>
             <td colspan=3>
                 <ul>
-                    <li>Practical Application: Quantifying morphology of objects in a 2D image</li>
+                    <li>Practical Applications:
+		    <ul>
+			<li>Counting and quantifying morphology of objects</li>
+			<li>Quantifying fluorescence intensities</li>
                 </ul>
             </td>
         </tr>
