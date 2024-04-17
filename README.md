@@ -12,7 +12,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 * [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
 * [Temilade Adegoke, University of Limerick](https://www.ul.ie/bernal/temilade-adegoke)
 * [Brenton Cavanagh, Royal College of Surgeons in Ireland](https://www.rcsi.com/people/profile/brentoncavanagh)
-* Mohammadreza Azimi, Royal College of Surgeons in Ireland
+* [Moein Azimi, Royal College of Surgeons in Ireland](https://scholar.google.com/citations?user=3NUDmZcAAAAJ&hl=en&oi=sra)
 
 # Preparation
 
