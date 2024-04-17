@@ -17,7 +17,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 # Preparation
 
 1. Please remember to bring your laptop (and charger).
-2. Please install the required software beforehand: follow the installation instructions on [this page](Pages/Installation-Instructions.md) before the workshop to install Fiji and conda on your laptop
+2. Please install the required software before the workshop - follow the installation instructions on [this page](Pages/Installation-Instructions.md).
 3. Download the workshop data by clicking on the link to the ZIP archive at the top of this page.
 4. **PLEASE CONTACT US BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
 
