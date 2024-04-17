@@ -89,6 +89,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		    <ul>
 			<li>Counting and quantifying morphology of objects</li>
 			<li>Quantifying fluorescence intensities</li>
+		    </ul>
                 </ul>
             </td>
         </tr>
@@ -105,7 +106,10 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
             <td></td>
             <td colspan=3>
                 <ul>
-                    <li>Practical Application: Record commands to form the basis of a script for automated processing and analysis</li>
+                    <li>Practical Application: 
+		    <ul>
+			<li>Record commands to form the basis of a script</li>
+		    </ul>
                 </ul>
             </td>
         </tr>
