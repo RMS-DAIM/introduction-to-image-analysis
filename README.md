@@ -40,7 +40,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
             <td>Introduction - Automated Image Analysis is Essential for Reproducible Science</td>
         </tr>
         <tr>
-            <td></td>
+	    <td></td>
             <td colspan=3>
                 <ul>
                     <li>Why manual analysis is a bad idea</li>
@@ -59,7 +59,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
             <td>Image Pre-Processing, Segmentation & Analysis</td>
         </tr>
         <tr>
-            <td></td>
+	    <td></td>
             <td colspan=3>
                 <ul>
                     <li>Basic quality control checks you should perform</li>
@@ -82,10 +82,10 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
             <td>Assembling Pipelines and Interpreting Results</td>
         </tr>
         <tr>
-            <td></td>
+	    <td></td>
             <td colspan=3>
                 <ul>
-                    <li>Practical Applications:
+                    <li>Practical Applications:</li>
 		    <ul>
 			<li>Counting and quantifying morphology of objects</li>
 			<li>Quantifying fluorescence intensities</li>
