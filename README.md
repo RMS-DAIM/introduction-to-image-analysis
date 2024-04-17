@@ -26,153 +26,153 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 **Please note that all catering, as well as attendance of the social on the evening of the 24th, is covered by your registration fee.**
 
 <table>
-    <tbody>
-        <tr>
-            <th colspan=3>Wednesday, April 24th</th>
-        </tr>
-	<tr>
-        	<td>09:30 - 10:30</td>
-		<td colspan=3> Registration</td>
-        </tr>
-        <tr>
-            <td>10:30 - 11:30</td>
+	<tbody>
+		<tr>
+			<th colspan=3>Wednesday, April 24th</th>
+		</tr>
+		<tr>
+			<td>09:30 - 10:30</td>
+			<td colspan=3> Registration</td>
+		</tr>
+		<tr>
+			<td>10:30 - 11:30</td>
 			<td>Session 1</td>
-            <td>Introduction - Automated Image Analysis is Essential for Reproducible Science</td>
-        </tr>
-        <tr>
-	    <td></td>
-            <td colspan=3>
-                <ul>
-                    <li>Why manual analysis is a bad idea</li>
-		    <li>Enbracing uncertainty</li>
-		    <li>What is metadata and why do uou need it</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>11:30 - 11:45</td>
-            <td colspan=2>Coffee Break</td>
-        </tr>
-       <tr>
-            <td>11:45 - 13:30</td>
+			<td>Introduction - Automated Image Analysis is Essential for Reproducible Science</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+					<li>Why manual analysis is a bad idea</li>
+					<li>Enbracing uncertainty</li>
+					<li>What is metadata and why do uou need it</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>11:30 - 11:45</td>
+			<td colspan=2>Coffee Break</td>
+		</tr>
+		<tr>
+			<td>11:45 - 13:30</td>
 			<td>Session 2</td>
-            <td>Image Pre-Processing, Segmentation & Analysis</td>
-        </tr>
-        <tr>
-	    <td></td>
-            <td colspan=3>
-                <ul>
-                    <li>Basic quality control checks you should perform</li>
-		    <li>Practical Applications:</li>
-		    <ul>
-		    	<li>Basic segmentation using thresholding</li>
-	            	<li>Use of filtering to suppress noise</li>
-		    	<li>Obtaining numbers from images</li>
-		    </ul>
+			<td>Image Pre-Processing, Segmentation & Analysis</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+					<li>Basic quality control checks you should perform</li>
+					<li>Practical Applications:</li>
+					<ul>
+						<li>Basic segmentation using thresholding</li>
+						<li>Use of filtering to suppress noise</li>
+						<li>Obtaining numbers from images</li>
+					</ul>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>13:30 - 14:30</td>
+			<td colspan=2>Lunch</td>
+		</tr>
+		<tr>
+			<td>14:30 - 16:00</td> 
+			<td>Session 3</td>
+			<td>Assembling Pipelines and Interpreting Results</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+			<ul>
+				<li>Practical Applications:</li>
+				<ul>
+					<li>Counting and quantifying morphology of objects</li>
+					<li>Quantifying fluorescence intensities</li>
+				</ul>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>16:00 - 16:20</td>
+			<td colspan=2>Coffee Break</td>
+		</tr>
+		<tr>
+			<td>16:20 - 18:00</td> 
+			<td>Session 4</td>
+			<td>Introduction to Batch Processing</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+                    <li>Practical Application: </li>
+					<ul>
+						<li>Record commands to form the basis of a script</li>
+					</ul>
                 </ul>
-            </td>
-        </tr>
-	<tr>
-            <td>13:30 - 14:30</td>
-            <td colspan=2>Lunch</td>
-        </tr>
-	<tr>
-            <td>14:30 - 16:00</td> 
-	    <td>Session 3</td>
-            <td>Assembling Pipelines and Interpreting Results</td>
-        </tr>
-        <tr>
-	    <td></td>
-            <td colspan=3>
-                <ul>
-                    <li>Practical Applications:</li>
-		    <ul>
-			<li>Counting and quantifying morphology of objects</li>
-			<li>Quantifying fluorescence intensities</li>
-		    </ul>
-                </ul>
-            </td>
-        </tr>
-	<tr>
-            <td>16:00 - 16:20</td>
-            <td colspan=2>Coffee Break</td>
-        </tr>
-	<tr>
-            <td>16:20 - 18:00</td> 
-	    <td>Session 4</td>
-            <td>Introduction to Batch Processing</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td colspan=3>
-                <ul>
-                    <li>Practical Application: 
-		    <ul>
-			<li>Record commands to form the basis of a script</li>
-		    </ul>
-                </ul>
-            </td>
-        </tr>
-	<tr>
-            	<td>18:00 - ?</td>
-            	<td>Evening Social</td>
-		<td>Against the Grain, 11 Wexford St, Dublin, D02 HY84</td>
-        </tr>
-	<tr>
-            <th colspan=3>Thursday, April 25th</th>
-        </tr>
-        <tr>
-            <td>09:30 - 10:30</td>
-	    <td>Session 5</td>
-            <td>Introduction to Python and installations</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td colspan=3>
-                <ul>
-                    <li>Creating Pyton environments</li>
-                    <li>Installing Jupyter notebooks and napari</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>10:30 - 10:50</td>
-            <td colspan=2>Coffee Break</td>
-        </tr>
-       <tr>
-            <td>10:50 - 12:30</td>
-	    <td>Session 6</td>
-            <td>Using Jupyter Notebooks for Reproducible Analysis</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td colspan=3>
-                <ul>
-                    <li>Variables and arrays</li>
-		            <li>Practical Application: quantify morphology of objects in a 2D image with Jupyter</li>
-                </ul>
-            </td>
-        </tr>
-	<tr>
-            <td>12:30 - 13:30</td>
-            <td colspan=2>Lunch</td>
-        </tr>
-	<tr>
-            <td>13:30 - 15:30</td>
-	    <td>Session 7</td>
-            <td>Using napari as an image analysis tool and as a viewer</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td colspan=3>
-                <ul>
-                    <li>Overview of napari GUI</li>
-		            <li>Practical Application: batch processing with Jupyter</li>
-                    <li>Practical Application: using napari as a viewer from Jupyter</li>
-                </ul>
-            </td>
-        </tr>
-    </tbody>
+			</td>
+		</tr>
+		<tr>
+			<td>18:00 - ?</td>
+			<td>Evening Social</td>
+			<td>Against the Grain, 11 Wexford St, Dublin, D02 HY84</td>
+		</tr>
+		<tr>
+			<th colspan=3>Thursday, April 25th</th>
+		</tr>
+		<tr>
+			<td>09:30 - 10:30</td>
+			<td>Session 5</td>
+			<td>Introduction to Python and installations</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+					<li>Creating Pyton environments</li>
+					<li>Installing Jupyter notebooks and napari</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>10:30 - 10:50</td>
+			<td colspan=2>Coffee Break</td>
+		</tr>
+		<tr>
+			<td>10:50 - 12:30</td>
+			<td>Session 6</td>
+			<td>Using Jupyter Notebooks for Reproducible Analysis</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+					<li>Variables and arrays</li>
+					<li>Practical Application: quantify morphology of objects in a 2D image with Jupyter</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>12:30 - 13:30</td>
+			<td colspan=2>Lunch</td>
+		</tr>
+		<tr>
+			<td>13:30 - 15:30</td>
+			<td>Session 7</td>
+			<td>Using napari as an image analysis tool and as a viewer</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+					<li>Overview of napari GUI</li>
+					<li>Practical Application: batch processing with Jupyter</li>
+					<li>Practical Application: using napari as a viewer from Jupyter</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 # Venue
