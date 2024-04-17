@@ -135,11 +135,11 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			</td>
 		</tr>
 		<tr>
-			<td>10:30 - 10:50</td>
+			<td>10:30 - 10:45</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>10:50 - 12:30</td>
+			<td>10:45 - 12:30</td>
 			<td>Session 6</td>
 			<td>Using Jupyter Notebooks for Reproducible Analysis</td>
 		</tr>
