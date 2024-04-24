@@ -77,7 +77,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td colspan=2>Lunch</td>
 		</tr>
 		<tr>
-			<td>14:30 - 16:00</td> 
+			<td>14:30 - 16:15</td> 
 			<td>Session 3</td>
 			<td>Assembling Pipelines and Interpreting Results</td>
 		</tr>
@@ -94,11 +94,11 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			</td>
 		</tr>
 		<tr>
-			<td>16:00 - 16:15</td>
+			<td>16:15 - 16:30</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>16:15 - 18:00</td> 
+			<td>16:30 - 18:00</td> 
 			<td>Session 4</td>
 			<td>Introduction to Batch Processing</td>
 		</tr>
