@@ -1,3 +1,4 @@
+# Day 1 Leaderboard
 
 |	Team	|	Score	| |
 |---|---|---|
