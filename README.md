@@ -201,7 +201,7 @@ At 18:00 on Wednesday the 24th, we will walk a few hundred metres to Against the
 
 All of the presentation material for this workshop is available on Zenodo and can be referenced as follows:
 
-Barry, D. J., Jones, M. and Marcotti, S. (2024) Introduction to Image Analysis. _Zenodo_. doi: https://doi.org/10.5281/zenodo.11072759
+Barry, D. J., Jones, M. and Marcotti, S. (2024) Introduction to Image Analysis. _Zenodo_. doi: 10.5281/zenodo.11072759
 
 # FAQ
 
