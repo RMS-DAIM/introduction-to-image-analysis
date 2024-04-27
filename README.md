@@ -195,6 +195,14 @@ At 18:00 on Wednesday the 24th, we will walk a few hundred metres to Against the
 * [Kerry Thompson, University of Galway](https://www.universityofgalway.ie/our-research/people/kerrythompson)
 * [Emma McDermott, University of Galway](https://www.universityofgalway.ie/imaging/ourpeopleandcontacts)
 
+# Slides
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11072733.svg)](https://doi.org/10.5281/zenodo.11072733)
+
+All of the presentation material for this workshop is available on Zenodo and can be referenced as follows:
+
+Barry, D. J., Jones, M. and Marcotti, S. (2024) Introduction to Image Analysis. _Zenodo_. doi: https://doi.org/10.5281/zenodo.11072759
+
 # FAQ
 
 1. **Do I need any prior knowledge of image analysis, FIJI or napari to attend?**
