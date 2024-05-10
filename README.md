@@ -206,15 +206,9 @@ Barry, D. J., Jones, M. and Marcotti, S. (2024) Introduction to Image Analysis. 
 
 # Previous Workshops
 
-<table style="width:100%">
-	<tbody>
-		<tr>
-			<td> 8 / 9th April 2024 </td>
-			<td> King's College London </td>
-			<td>  <a href="Pages/KCL_2024.04.08.md"> Click here </a> </td>
-		</tr>
-	</tbody>
-</table>
+| Date | Venue | Content |
+| --- | --- | --- |
+| 8 / 9th April 2024 | King's College London | [Click here](Pages/KCL_2024.04.08.md)|
 
 # FAQ
 
