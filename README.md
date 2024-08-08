@@ -189,7 +189,7 @@ The workshop will take place in the University of Galway, Galway, Ireland:
 | Date | Venue | Content |
 | --- | --- | --- |
 | 8 / 9th April 2024 | King's College London | [Click here](Pages/KCL_2024.04.08.md)|
-| 24 / 25th April 2024 | Royal College of Surgeons in Ireland | [Click here](Pages/RCSI_2025.04.24.md)|
+| 24 / 25th April 2024 | Royal College of Surgeons in Ireland | [Click here](Pages/RCSI_2024.04.24.md)|
 
 # FAQ
 
