@@ -1,3 +1,5 @@
+### 8 - 9th April 2025, Galway, Ireland
+
 <img width="100%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.jpg" alt="Banner Image">
 
 # Overview
