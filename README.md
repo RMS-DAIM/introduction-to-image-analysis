@@ -206,5 +206,5 @@ The workshop will take place in the University of Galway, Galway, Ireland:
 </p>
 
 <p align="center">
-	 <img width="21%" src="./Resources/CZI_Logo.png" alt="CZI Logo">  <img width="19%" src="./Resources/KCL_Logo.png" alt="KCL Logo">  <img width="22%" src="./Resources/UoG_Logo.png" alt="Univesity of Galway Logo">
+	 <img width="21%" src="./Resources/CZI_Logo.png" alt="CZI Logo">  <img width="19%" src="./Resources/KCL_Logo.png" alt="KCL Logo">  <img width="23%" src="./Resources/UoG_Logo.png" alt="Univesity of Galway Logo">
 </p>
