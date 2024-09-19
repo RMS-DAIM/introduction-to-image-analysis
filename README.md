@@ -38,7 +38,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>10:30 - 11:45</td>
 			<td>Session 1</td>
-			<td><p>Introduction - Automated Image Analysis is Essential for Reproducible Science</p><p><i>Dave Barry</i></p></td>
+			<td><p>Introduction - Automated Image Analysis is Essential for Reproducible Science</p><p>Dave Barry</p></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -57,7 +57,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>12:00 - 13:30</td>
 			<td>Session 2</td>
-			<td>Image Pre-Processing, Segmentation & Analysis</td>
+			<td><p>Image Pre-Processing, Segmentation & Analysis</p><p>Dave Barry</p></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -79,7 +79,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>14:30 - 16:15</td> 
 			<td>Session 3</td>
-			<td>Assembling Pipelines and Interpreting Results</td>
+			<td><p>Assembling Pipelines and Interpreting Results</p><p>Dave Barry</p></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -100,7 +100,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>16:30 - 18:00</td> 
 			<td>Session 4</td>
-			<td>Introduction to Batch Processing</td>
+			<td><p>Introduction to Batch Processing</p><p>Dave Barry</p></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -124,7 +124,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>09:30 - 10:30</td>
 			<td>Session 5</td>
-			<td>Introduction to Python and installations</td>
+			<td><p>Introduction to Python and installations</p><p>Stefania Marcotti</p></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -142,7 +142,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>10:45 - 12:30</td>
 			<td>Session 6</td>
-			<td>Using Jupyter Notebooks for Reproducible Analysis</td>
+			<td><p>Using Jupyter Notebooks for Reproducible Analysis</p><p>Stefania Marcotti</p></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -160,7 +160,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>13:30 - 15:30</td>
 			<td>Session 7</td>
-			<td>Using napari as an image analysis tool and as a viewer</td>
+			<td><p>Using napari as an image analysis tool and as a viewer</p><p>Martin Jones</p></td>
 		</tr>
 		<tr>
 			<td></td>
