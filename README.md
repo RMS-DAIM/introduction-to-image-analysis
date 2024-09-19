@@ -24,7 +24,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Program
 
-**Please note that all catering, as well as attendance of the social on the evening of the 8th, is covered by your registration fee.**
+**Please note that all catering, as well as attendance of the social on the evening of the 21st, is covered by your registration fee.**
 
 <table style="width:100%">
 	<tbody>
@@ -206,9 +206,5 @@ Please note that the building entrance is on Midland Road.
     While some basic knowledge would be helpful, it's not essential and even if you have no knowledge of python, Jupyter notebooks or FIJI scripts/macros, you should still apply.
 
 <p align="center">
-	<img width="42%" src="./Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="14.5%" src="./Resources/MSI_Logo.jpg" alt="MSI Logo"> <img width="13.5%" src="./Resources/CRICK_Logo.png" alt="Crick Logo">
-</p>
-
-<p align="center">
-	 <img width="21%" src="./Resources/CZI_Logo.png" alt="CZI Logo">  <img width="19%" src="./Resources/KCL_Logo.png" alt="KCL Logo">  <img width="24%" src="./Resources/UoG_Logo.png" alt="Univesity of Galway Logo">
+	<img width="13.5%" src="./Resources/CRICK_Logo.png" alt="Crick Logo">
 </p>
