@@ -38,7 +38,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>10:30 - 11:45</td>
 			<td>Session 1</td>
-			<td>Introduction - Automated Image Analysis is Essential for Reproducible Science</td>
+			<td><p>Introduction - Automated Image Analysis is Essential for Reproducible Science</p><p><i>Dave Barry</i></p></td>
 		</tr>
 		<tr>
 			<td></td>
