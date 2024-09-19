@@ -1,4 +1,4 @@
-### 8 - 9th April 2025, Galway, Ireland
+### 21st - 22nd October 2024, Francis Crick Institute, London
 
 <img width="100%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.jpg" alt="Banner Image">
 
@@ -12,6 +12,7 @@ Register your interest [here](https://www.rms.org.uk/rms-event-calendar/2025-eve
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
 * [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
 * [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
+* Sara Salgueiro Torres, Francis Crick Institute
 
 # Preparation
 
