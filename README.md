@@ -6,7 +6,7 @@
 
 In this workshop, we will bridge the gap between advanced microscopy data generation and the computational skills required for its analysis. By leveraging open-source tools like [FIJI](https://fiji.sc) and [napari](https://napari.org), participants will learn to automate image analysis, enhancing the precision, efficiency, and reproducibility of their research. This two-day event, led by experienced core facility staff from the Francis Crick Institute and King's College London, offers a practical approach to mastering quantitative analysis and workflow automation, essential for advancing research across multiple domains.
 
-Register your interest [here](https://www.rms.org.uk/rms-event-calendar/2025-events/introduction-to-image-analysis-2025.html).
+>Applications for this workshop have now closed.
 
 # Instructors
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
@@ -177,15 +177,16 @@ Register your interest [here](https://www.rms.org.uk/rms-event-calendar/2025-eve
 
 # Venue
 
-The workshop will take place in the University of Galway, Galway, Ireland:
+The workshop will take place in the Francis Crick Institute, London, UK:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6555.838295610043!2d-9.06852959626151!3d53.27598407592953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485b96f169862607%3A0x8b41e03d8f400270!2sUniversity%20of%20Galway!5e0!3m2!1sen!2suk!4v1723125645733!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d737.902638676005!2d-0.1278312633519172!3d51.53158304203475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2356c7b3d9%3A0xb8647f199e3caae7!2sFrancis%20Crick%20Institute!5e0!3m2!1sen!2suk!4v1726748251051!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+Please note that the building entrance is on Midland Road.
 
 # Organisers
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
 * [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
 * [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
-* [Kerry Thompson, University of Galway](https://www.universityofgalway.ie/our-research/people/kerrythompson)
 
 # Previous Workshops
 
