@@ -29,7 +29,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 <table style="width:100%">
 	<tbody>
 		<tr>
-			<th colspan=3>Tuesday, April 8th 2025</th>
+			<th colspan=3>Monday, October 21st 2024</th>
 		</tr>
 		<tr>
 			<td>09:30 - 10:30</td>
@@ -119,7 +119,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td>TBC</td>
 		</tr>
 		<tr>
-			<th colspan=3>Wednesday, April 9th 2025</th>
+			<th colspan=3>Tuesday, October 22nd 2024</th>
 		</tr>
 		<tr>
 			<td>09:30 - 10:30</td>
