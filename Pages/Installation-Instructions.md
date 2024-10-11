@@ -4,6 +4,10 @@ Please read the following instructions carefully to prepare for the workshop. Co
 * For issues with FIJI, contact Dave (David.Barry@crick.ac.uk)
 * For conda issues, contact Stefania (stefania.marcotti@kcl.ac.uk)
 
+## Download Demo Data
+
+Download the workshop data by clicking on the link to the ZIP archive at the top of this page.
+
 ## Installing FIJI
 
 1. Download FIJI from [here](https://fiji.sc/).
