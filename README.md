@@ -21,7 +21,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 1. Please remember to bring your laptop (and charger).
 2. Please install the required software before the workshop - follow the installation instructions on [this page](Pages/Installation-Instructions.md).
 3. Download the workshop data by clicking on the link to the ZIP archive at the top of this page.
-4. You will be assigned to a specific group, with whom you will be sitting - your group number will be displayed [here](Pages/Groups.md).
+4. You will be assigned to a specific group, with whom you will be sitting - your group number will be displayed in the training room.
 5. **PLEASE CONTACT US BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
 
 # Program
