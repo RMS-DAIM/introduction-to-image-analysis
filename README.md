@@ -118,7 +118,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>18:00 - ?</td>
 			<td>Evening Social</td>
-			<td>TBC</td>
+			<td>The Lighterman, 3 Granary Square, N1C 4BH</td>
 		</tr>
 		<tr>
 			<th colspan=3>Tuesday, October 22nd 2024</th>
