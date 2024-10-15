@@ -24,6 +24,10 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 4. You will be assigned to a specific group, with whom you will be sitting - your group number will be displayed in the training room.
 5. **PLEASE CONTACT US BEFORE THE WORKSHOP IF YOU ENCOUNTER ANY DIFFICULTIES WITH ANY OF THE ABOVE.**
 
+# Slides
+
+All the slides for the workshop are on Google and accesible [here](https://docs.google.com/presentation/d/14rFTI_36FiS6uMTFhOj12K8n2JLP0Ozx_Hb9OohTD8o/edit?usp=sharing).
+
 # Program
 
 **Please note that all catering, as well as attendance of the social on the evening of the 21st, is covered by your registration fee.**
