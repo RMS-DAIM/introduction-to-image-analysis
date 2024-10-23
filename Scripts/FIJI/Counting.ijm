@@ -10,13 +10,18 @@
  */
 
 // Specify the input directory
-inputDir = "C:/Users/davej/GitRepos/Pages/introduction-to-image-analysis/Data/idr0028"
+inputDir = getDirectory("Select Input Directory");
 
 // Get the list of files in the input directory
 images = getFileList(inputDir);
 
+print("\\Clear");
+print("Found " + images.length + " files in " + inputDir);
+print("0% of images processed.");
+
 // Iterate over all files
 for (i = 0; i < images.length; i++) {
+	print("\\Update:" + (100.0 * i / images.length) + "% of images processed.");
 	// Open each image with Bio-Formats (www.openmicroscopy.org/bio-formats) to ensure correct reading of metadata
 	run("Bio-Formats Importer", "open=[" + inputDir + File.separator() + images[i] + "] autoscale color_mode=Composite rois_import=[ROI manager] view=Hyperstack stack_order=XYCZT");
 	// Split the image into constituent channels - this could also be done in the step above via Bio-Formats
@@ -34,3 +39,4 @@ for (i = 0; i < images.length; i++) {
 	// Close all open images
 	close("*");
 }
+print("\\Update:100% of images processed.");
