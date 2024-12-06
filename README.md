@@ -1,4 +1,4 @@
-### 21st - 22nd October 2024, Francis Crick Institute, London
+### 8th - 9th April 2025, University of Galway, Ireland
 
 <img width="100%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.jpg" alt="Banner Image">
 
@@ -6,15 +6,13 @@
 
 In this workshop, we will bridge the gap between advanced microscopy data generation and the computational skills required for its analysis. By leveraging open-source tools like [FIJI](https://fiji.sc) and [napari](https://napari.org), participants will learn to automate image analysis, enhancing the precision, efficiency, and reproducibility of their research. This two-day event, led by experienced core facility staff from the Francis Crick Institute and King's College London, offers a practical approach to mastering quantitative analysis and workflow automation, essential for advancing research across multiple domains.
 
->Applications for this workshop have now closed.
+Apply [here](https://www.rms.org.uk/rms-event-calendar/2025-events/introduction-to-image-analysis-2025.html).
 
 # Instructors
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
 * [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
 * [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
 * Sara Salgueiro Torres, Francis Crick Institute
-* [Eschal Najmi, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/eschal-najmi)
-* [Anneliese Jarman, King's College London](https://kclpure.kcl.ac.uk/portal/en/persons/anneliese.jarman)
 
 # Preparation
 
@@ -30,12 +28,12 @@ All the slides for the workshop are on Google and accesible [here](https://drive
 
 # Program
 
-**Please note that all catering, as well as attendance of the social on the evening of the 21st, is covered by your registration fee.**
+**Please note that all catering, as well as attendance of the social on the evening of the 8th, is covered by your registration fee.**
 
 <table style="width:100%">
 	<tbody>
 		<tr>
-			<th colspan=3>Monday, October 21st 2024</th>
+			<th colspan=3>Tuesday, April 8th 2025</th>
 		</tr>
 		<tr>
 			<td>09:30 - 10:30</td>
@@ -122,10 +120,10 @@ All the slides for the workshop are on Google and accesible [here](https://drive
 		<tr>
 			<td>18:00 - ?</td>
 			<td>Evening Social</td>
-			<td>The Lighterman, 3 Granary Square, N1C 4BH</td>
+			<td>TBC</td>
 		</tr>
 		<tr>
-			<th colspan=3>Tuesday, October 22nd 2024</th>
+			<th colspan=3>Wednesday, April 9th 2025</th>
 		</tr>
 		<tr>
 			<td>09:30 - 10:30</td>
