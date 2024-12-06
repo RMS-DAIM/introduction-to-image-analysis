@@ -61,7 +61,7 @@ All the slides for the workshop are on Google and accesible [here](https://drive
 		<tr>
 			<td>12:00 - 13:30</td>
 			<td>Session 2</td>
-			<td><p>Image Pre-Processing, Segmentation & Analysis</p><p>Dave Barry</p></td>
+			<td><p>Image Pre-Processing, Segmentation & Analysis</p><p>Sara Salgueiro Torres</p></td>
 		</tr>
 		<tr>
 			<td></td>
