@@ -1,6 +1,6 @@
 ### 21st - 22nd October 2024, Francis Crick Institute, London
 
-<img width="100%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.jpg" alt="Banner Image">
+<img width="100%" src="./../Resources/RMS-DAIM_Workshop_Banner_Image.jpg" alt="Banner Image">
 
 # Overview
 
@@ -212,5 +212,5 @@ Please note that the building entrance is on Midland Road.
     While some basic knowledge would be helpful, it's not essential and even if you have no knowledge of python, Jupyter notebooks or FIJI scripts/macros, you should still apply.
 
 <p align="center">
-	<img width="13.5%" src="./Resources/CRICK_Logo.png" alt="Crick Logo">
+	<img width="13.5%" src="./../Resources/CRICK_Logo.png" alt="Crick Logo">
 </p>
