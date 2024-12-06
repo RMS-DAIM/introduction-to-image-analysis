@@ -181,11 +181,9 @@ All the slides for the workshop are on Google and accesible [here](https://drive
 
 # Venue
 
-The workshop will take place in the Francis Crick Institute, London, UK:
+The workshop will take place in the University of Galway, Galway, Ireland:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d737.902638676005!2d-0.1278312633519172!3d51.53158304203475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2356c7b3d9%3A0xb8647f199e3caae7!2sFrancis%20Crick%20Institute!5e0!3m2!1sen!2suk!4v1726748251051!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-Please note that the building entrance is on Midland Road.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8022.615056807473!2d-9.071864966743952!3d53.28706786442751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485b96f169862607%3A0x8b41e03d8f400270!2sUniversity%20of%20Galway!5e0!3m2!1sen!2suk!4v1733484459965!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 # Organisers
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
