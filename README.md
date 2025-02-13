@@ -13,6 +13,8 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 * [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
 * [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
 * [Sara Salgueiro Torres, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sara-salgueiro-torres)
+* [Pascal Paco Farina, University of Galway](https://www.linkedin.com/in/pascal-paco-farina-000502210/)
+* [Karolina Salciute, University of Galway](https://www.linkedin.com/in/karolina-salciute/)
 
 # Preparation
 
