@@ -1,6 +1,6 @@
 ### 8th - 9th April 2025, University of Galway, Ireland
 
-<img width="100%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.jpg" alt="Banner Image">
+<img width="100%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
 
 # Overview
 
