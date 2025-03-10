@@ -79,11 +79,16 @@ All the slides for the workshop are on Google and accesible [here](https://drive
 			</td>
 		</tr>
 		<tr>
-			<td>13:30 - 14:30</td>
+			<td>13:30 - 13:40</td>
+			<td>Tech Bite</td>
+			<td><p> TBC </p><p> Dylan Donnellan, Lennox </p></td>
+		</tr>
+		<tr>
+			<td>13:40 - 14:40</td>
 			<td colspan=2>Lunch</td>
 		</tr>
 		<tr>
-			<td>14:30 - 16:15</td> 
+			<td>14:40 - 16:25</td> 
 			<td>Session 3</td>
 			<td><p>Assembling Pipelines and Interpreting Results</p><p>Dave Barry</p></td>
 		</tr>
@@ -100,11 +105,11 @@ All the slides for the workshop are on Google and accesible [here](https://drive
 			</td>
 		</tr>
 		<tr>
-			<td>16:15 - 16:30</td>
+			<td>16:25 - 16:40</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>16:30 - 18:00</td> 
+			<td>16:40 - 18:10</td> 
 			<td>Session 4</td>
 			<td><p>Introduction to Batch Processing</p><p>Dave Barry</p></td>
 		</tr>
@@ -120,7 +125,7 @@ All the slides for the workshop are on Google and accesible [here](https://drive
 			</td>
 		</tr>
 		<tr>
-			<td>18:00 - ?</td>
+			<td>18:10 - ?</td>
 			<td>Evening Social</td>
 			<td>TBC</td>
 		</tr>
