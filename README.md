@@ -191,6 +191,7 @@ The workshop will take place in the University of Galway, Galway, Ireland:
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
 * [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
 * [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
+* [Kerry Thompson, University of Galway](https://www.universityofgalway.ie/our-research/people/kerrythompson)
 
 # Previous Workshops
 
