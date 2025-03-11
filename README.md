@@ -81,7 +81,7 @@ All the slides for the workshop are on Google and accesible [here](https://drive
 		<tr>
 			<td>13:30 - 13:40</td>
 			<td>Tech Bite</td>
-			<td><p> TBC </p><p> Dylan Donnellan, Lennox </p></td>
+			<td><p> How to enhance your experimental workflows through Smart Experiments and JOBs </p><p> Dylan Donnellan, Lennox </p></td>
 		</tr>
 		<tr>
 			<td>13:40 - 14:40</td>
