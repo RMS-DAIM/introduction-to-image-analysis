@@ -192,7 +192,7 @@ The workshop will take place in the University of Galway, Galway, Ireland:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8022.615056807473!2d-9.071864966743952!3d53.28706786442751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485b96f169862607%3A0x8b41e03d8f400270!2sUniversity%20of%20Galway!5e0!3m2!1sen!2suk!4v1733484459965!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-On the evening of Tuesday the 8th, we will walk to Taylor's Bar, 7 Dominick St Upper, Galway, H91 RP48 for food and drinks (all covered by your registration fee). These workshops are a terrific networking opportunity, so please join us!
+On the evening of Tuesday the 8th, we will walk (about 15 minutes) to Taylor's Bar, 7 Dominick St Upper, Galway, H91 RP48 for food and drinks (all covered by your registration fee). These workshops are a terrific networking opportunity, so please join us!
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d149.1304415680158!2d-9.058159225891124!3d53.270059643345625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485b974e5cf5a917%3A0xe51a65a9c990ac23!2sTaylor&#39;s%20Bar%20%26%20Beer%20Garden!5e0!3m2!1sen!2suk!4v1741951928391!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 # Organisers
