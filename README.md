@@ -26,7 +26,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Slides
 
-All the slides for the workshop are on Google and accesible [here](https://drive.google.com/drive/folders/1nTeM1MHu74hpmGDSvYeqU-ftX8ANHqI_?usp=sharing).
+All the slides for the workshop are on Google and accessible [here](https://drive.google.com/drive/folders/1nTeM1MHu74hpmGDSvYeqU-ftX8ANHqI_?usp=sharing).
 
 # Program
 
