@@ -1,6 +1,6 @@
 ### 21st - 22nd October 2024, Francis Crick Institute, London
 
-<img width="100%" src="./../Resources/RMS-DAIM_Workshop_Banner_Image.jpg" alt="Banner Image">
+<img width="100%" src="./../Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
 
 # Overview
 
@@ -12,7 +12,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 * [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
 * [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
 * [Stefania Marcotti, King's College London](https://www.kcl.ac.uk/people/stefania-marcotti)
-* Sara Salgueiro Torres, Francis Crick Institute
+* [Sara Salgueiro Torres, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sara-salgueiro-torres)
 * [Eschal Najmi, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/eschal-najmi)
 * [Anneliese Jarman, King's College London](https://kclpure.kcl.ac.uk/portal/en/persons/anneliese.jarman)
 
@@ -26,7 +26,11 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Slides
 
-All the slides for the workshop are on Google and accesible [here](https://drive.google.com/drive/folders/1nTeM1MHu74hpmGDSvYeqU-ftX8ANHqI_?usp=sharing).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13987719.svg)](https://doi.org/10.5281/zenodo.13987719)
+
+All of the presentation material for this workshop is available on Zenodo and can be referenced as follows:
+
+>Barry, D. J., Jones, M., & Marcotti, S. (2024). Introduction to Image Analysis. _Zenodo_. DOI: ttps://doi.org/10.5281/zenodo.13987719
 
 # Program
 
