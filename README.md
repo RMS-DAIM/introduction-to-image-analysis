@@ -84,7 +84,7 @@ All of the presentation material for this workshop is available on Zenodo and ca
 			<th colspan=3>Friday, June 20th 2025</th>
 		</tr>
 		<tr>
-			<td>12:30 - 13:40</td>
+			<td>12:30 - 13:30</td>
 			<td>Session 3</td>
 			<td><p>Introduction to Python and installations</p><p>Alicja Skórkowska</p></td>
 		</tr>
@@ -98,11 +98,11 @@ All of the presentation material for this workshop is available on Zenodo and ca
 			</td>
 		</tr>
 		<tr>
-			<td>13:40 - 14:00</td>
+			<td>13:30 - 13:50</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>14:00 - 15:30</td>
+			<td>13:50 - 14:50</td>
 			<td>Session 4</td>
 			<td><p>Using Jupyter Notebooks for Reproducible Analysis - Part 1</p><p>Alicja Skórkowska</p></td>
 		</tr>
@@ -115,11 +115,11 @@ All of the presentation material for this workshop is available on Zenodo and ca
 			</td>
 		</tr>
 		<tr>
-			<td>15:10 - 15:30</td>
+			<td>14:50 - 15:10</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>15:30 - 17:00</td>
+			<td>15:10 - 16:10</td>
 			<td>Session 4</td>
 			<td><p>Using Jupyter Notebooks for Reproducible Analysis - Part 2</p><p>Alicja Skórkowska</p></td>
 		</tr>
