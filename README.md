@@ -102,7 +102,7 @@ All of the presentation material for this workshop is available on Zenodo and ca
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>14:00 - 15:10</td>
+			<td>14:00 - 15:30</td>
 			<td>Session 4</td>
 			<td><p>Using Jupyter Notebooks for Reproducible Analysis - Part 1</p><p>Alicja Skórkowska</p></td>
 		</tr>
