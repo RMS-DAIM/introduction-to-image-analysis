@@ -132,7 +132,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>09:00 - 10:30</td>
 			<td>Session 5</td>
-			<td><p>Using GitHub for code version control</p></td>
+			<td><p>Using GitHub for Code Version Control</p></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -154,7 +154,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>10:45 - 12:15</td>
 			<td>Session 6</td>
-			<td><p>Using Jupyter Notebooks for Reproducible Analysis</p></td>
+			<td><p>Using Jupyter Notebooks for Reproducible Analysis - Part 1</p></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -162,7 +162,8 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 				<ul>
 				<li>Stefania Marcotti</li>
 				<ul>
-					<li>Quantify morphology of objects in a 2D image with Jupyter</li>
+					<li>Analysing light microscopy data</li>
+					<li>Quantify morphology of objects in a 2D image</li>
 				</ul>
 				</ul>
 			</td>
@@ -174,15 +175,16 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>13:15 - 14:45</td>
 			<td>Session 7</td>
-			<td><p>Introduction to Batch Processing with Jupyter Notebooks</p></td>
+			<td><p>Using Jupyter Notebooks for Reproducible Analysis - Part 2</p></td>
 		</tr>
 		<tr>
 			<td></td>
 			<td colspan=3>
 				<ul>
-				<li>Stefania Marcotti</li>
+				<li>Tom Slater</li>
 				<ul>
-					<li>Practical Application: batch processing with Jupyter</li>
+					<li>Analysing electron microscopy data</li>
+					<li>Quantify morphology of objects in a 2D image</li>
 				</ul>
 				</ul>
 			</td>
@@ -194,13 +196,16 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>15:00 - 16:30</td>
 			<td>Session 8</td>
-			<td><p>Using Python to Analyse Electron Microscopy Data</p></td>
+			<td><p>Introduction to Batch Processing with Jupyter Notebooks</p></td>
 		</tr>
 		<tr>
 			<td></td>
 			<td colspan=3>
 				<ul>
-				<li>Martin Jones & Cameron Shand</li>
+				<li>Stefania Marcotti</li>
+				<ul>
+					<li>Practical application: analyse all the images in a dataset</li>
+				</ul>
 				</ul>
 			</td>
 		</tr>
