@@ -34,7 +34,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		</tr>
 		<tr>
 			<td>09:30 - 10:00</td>
-			<td>Registration</td>
+			<td colspan=2>Registration</td>
 		</tr>
 		<tr>
 			<td>10:00 - 11:30</td>
