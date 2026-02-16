@@ -209,6 +209,87 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 				</ul>
 			</td>
 		</tr>
+		<tr>
+			<td>16:30 - 16:45</td>
+			<td colspan=2>Coffee Break</td>
+		</tr>
+		<tr>
+			<td>16:45 - 18:15</td>
+			<td>Session 8</td>
+			<td><p>Using Napari for Image Visualisation</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+				<li>Martin Jones</li>
+				<ul>
+					<li>Introduction to napari interface</li>
+					<li>Integrating napari into Jupyter notebooks</li>
+				</ul>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th colspan=3>Wednesday, May 20th 2026</th>
+		</tr>
+		<tr>
+			<td>09:00 - 10:30</td>
+			<td>Session 10</td>
+			<td><p>Introduction to Machine Learning for Image Analysis - Part 1</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+				<li>Dave Barry</li>
+				<ul>
+					<li>Annotations and metadata</li>
+					<li>Shallow vs. deep learning</li>
+					<li>Example software tools for light microscopy data</li>
+				</ul>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>10:30 - 10:45</td>
+			<td colspan=2>Coffee Break</td>
+		</tr>
+		<tr>
+			<td>10:45 - 12:15</td>
+			<td>Session 11</td>
+			<td><p>Introduction to Machine Learning for Image Analysis - Part 2</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+				<li>Martin Jones and Tom Slater</li>
+				<ul>
+					<li>Example software tools for electron microscopy data</li>
+					<li>Working with multimodal datasets</li>
+				</ul>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>12:15 - 13:15</td>
+			<td colspan=2>Lunch</td>
+		</tr>
+		<tr>
+			<td>13:15 - 14:45</td>
+			<td>Session 12</td>
+			<td><p>TBC</p></td>
+		</tr>
+		<tr>
+			<td>14:45 - 15:00</td>
+			<td colspan=2>Coffee Break</td>
+		</tr>
+		<tr>
+			<td>15:00 - 15:30</td>
+			<td>Session 13</td>
+			<td><p>Wrap up</p></td>
+		</tr>
 	</tbody>
 </table>
 
