@@ -216,6 +216,22 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		<tr>
 			<td>16:45 - 18:15</td>
 			<td>Session 9</td>
+			<td><p>Extending Analyses to Three Dimensions in Python</p></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3>
+				<ul>
+				<li>Tom Slater</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th colspan=3>Wednesday, May 20th 2026</th>
+		</tr>
+		<tr>
+			<td>09:00 - 10:30</td>
+			<td>Session 10</td>
 			<td><p>Using Napari for Image Visualisation</p></td>
 		</tr>
 		<tr>
@@ -231,11 +247,12 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			</td>
 		</tr>
 		<tr>
-			<th colspan=3>Wednesday, May 20th 2026</th>
+			<td>10:30 - 10:45</td>
+			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>09:00 - 10:30</td>
-			<td>Session 10</td>
+			<td>10:45 - 12:15</td>
+			<td>Session 11</td>
 			<td><p>Introduction to Machine Learning for Image Analysis - Part 1</p></td>
 		</tr>
 		<tr>
@@ -252,12 +269,12 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			</td>
 		</tr>
 		<tr>
-			<td>10:30 - 10:45</td>
-			<td colspan=2>Coffee Break</td>
+			<td>12:15 - 13:15</td>
+			<td colspan=2>Lunch</td>
 		</tr>
 		<tr>
-			<td>10:45 - 12:15</td>
-			<td>Session 11</td>
+			<td>13:15 - 14:45</td>
+			<td>Session 12</td>
 			<td><p>Introduction to Machine Learning for Image Analysis - Part 2</p></td>
 		</tr>
 		<tr>
@@ -271,15 +288,6 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 				</ul>
 				</ul>
 			</td>
-		</tr>
-		<tr>
-			<td>12:15 - 13:15</td>
-			<td colspan=2>Lunch</td>
-		</tr>
-		<tr>
-			<td>13:15 - 14:45</td>
-			<td>Session 12</td>
-			<td><p>TBC</p></td>
 		</tr>
 		<tr>
 			<td>14:45 - 15:00</td>
