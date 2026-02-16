@@ -328,5 +328,5 @@ The workshop will take place in the School of Chemistry, Cardiff University, Car
     While some basic knowledge would be helpful, it's not essential and even if you have no knowledge of python, Jupyter notebooks or FIJI scripts/macros, you should still apply.
 
 <p align="center">
-	<img width="32%" src="./Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="10%" src="./Resources/CRICK_Logo.png" alt="Crick Logo"> <img width="14%" src="./Resources/KCL_Logo.png" alt="KCL Logo"> <img width="23%" src="./Resources/UoG_Logo.png" alt="University of Galway Logo"> <img width="10%" src="./Resources/Nikon_Logo.png" alt="Nikon Logo">
+	<img width="32%" src="./Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="10%" src="./Resources/CRICK_Logo.png" alt="Crick Logo"> <img width="14%" src="./Resources/Cardiff_Logo.png" alt="Cardiff University Logo"> <img width="10%" src="./Resources/Nikon_Logo.png" alt="Nikon Logo">
 </p>
