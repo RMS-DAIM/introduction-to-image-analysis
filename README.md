@@ -215,7 +215,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		</tr>
 		<tr>
 			<td>16:45 - 18:15</td>
-			<td>Session 8</td>
+			<td>Session 9</td>
 			<td><p>Using Napari for Image Visualisation</p></td>
 		</tr>
 		<tr>
