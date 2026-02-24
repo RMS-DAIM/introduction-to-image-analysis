@@ -219,6 +219,9 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td colspan=3>
 				<ul>
 				<li>Tom Slater</li>
+				<ul>
+					<li>Quantify morphology of objects in a 3D image</li>
+				</ul>
 				</ul>
 			</td>
 		</tr>
