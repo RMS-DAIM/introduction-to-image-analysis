@@ -210,11 +210,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			</td>
 		</tr>
 		<tr>
-			<td>16:30 - 16:45</td>
-			<td colspan=2>Coffee Break</td>
-		</tr>
-		<tr>
-			<td>16:45 - 18:15</td>
+			<td>16:30 - 18:00</td>
 			<td>Session 9</td>
 			<td><p>Extending Analyses to Three Dimensions in Python</p></td>
 		</tr>
