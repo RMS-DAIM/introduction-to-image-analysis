@@ -86,12 +86,11 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		</tr>
 		<tr>
 			<td>14:15 - 14:25</td> 
-			<td> </td>
 			<td><p>Sponsors</p></td>
 		</tr>
 		<tr>
 			<td></td>
-			<td colspan=3>
+			<td colspan=2>
 			<ul>
 				<li>Ainhoa Dafis‑Sagarmendi (Nikon)</li>
 				<ul>
