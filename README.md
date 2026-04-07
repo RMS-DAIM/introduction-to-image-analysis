@@ -136,7 +136,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		</tr>
 		<tr>
 			<td>18:00</td>
-			<td colspan=2>Dinner: venue TBC</td>
+			<td colspan=2>Dinner: Tiny Rebel Cardiff, Westgate Street, Cardiff, CF10 1DD</td>
 		</tr>
 		<tr>
 			<th colspan=3>Tuesday, May 19th 2026</th>
