@@ -164,7 +164,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>10:45 - 12:15</td>
+			<td>10:45 - 12:00</td>
 			<td>Session 6</td>
 			<td><p>Using Jupyter Notebooks for Reproducible Analysis - Part 1</p></td>
 		</tr>
@@ -181,11 +181,11 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			</td>
 		</tr>
 		<tr>
-			<td>12:15 - 13:15</td>
+			<td>12:00 - 13:00</td>
 			<td colspan=2>Lunch</td>
 		</tr>
 		<tr>
-			<td>13:15 - 14:45</td>
+			<td>13:00 - 14:30</td>
 			<td>Session 7</td>
 			<td><p>Using Jupyter Notebooks for Reproducible Analysis - Part 2</p></td>
 		</tr>
@@ -202,11 +202,11 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			</td>
 		</tr>
 		<tr>
-			<td>14:45 - 15:00</td>
+			<td>14:30 - 14:45</td>
 			<td colspan=2>Coffee Break</td>
 		</tr>
 		<tr>
-			<td>15:00 - 16:30</td>
+			<td>14:45 - 16:15</td>
 			<td>Session 8</td>
 			<td><p>Introduction to Batch Processing with Jupyter Notebooks</p></td>
 		</tr>
@@ -222,7 +222,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 			</td>
 		</tr>
 		<tr>
-			<td>16:30 - 18:00</td>
+			<td>16:15 - 17:45</td>
 			<td>Session 9</td>
 			<td><p>Extending Analyses to Three Dimensions in Python</p></td>
 		</tr>
@@ -236,6 +236,10 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 				</ul>
 				</ul>
 			</td>
+		</tr>
+		<tr>
+			<td>18:00</td>
+			<td colspan=2>Welsh Microscopical Society drinks reception, Aberdare Hall, Cardiff, CF10 3UP</td>
 		</tr>
 		<tr>
 			<th colspan=3>Wednesday, May 20th 2026</th>
