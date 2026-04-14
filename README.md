@@ -239,7 +239,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		</tr>
 		<tr>
 			<td>18:00</td>
-			<td colspan=2>Welsh Microscopical Society drinks reception, Aberdare Hall, Cardiff, CF10 3UP</td>
+			<td colspan=2>[Welsh Microscopical Society drinks reception](https://www.rms.org.uk/rms-event-calendar/welsh-microscopical-society-drinks-reception.html), Aberdare Hall, Cardiff, CF10 3UP</td>
 		</tr>
 		<tr>
 			<th colspan=3>Wednesday, May 20th 2026</th>
