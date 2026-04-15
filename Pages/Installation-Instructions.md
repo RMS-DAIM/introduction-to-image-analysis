@@ -49,3 +49,12 @@ If this returns a version older than `23.10.0`, please update your `conda` by ru
 ```
 conda update -n base conda
 ```
+## Installing ilastik
+
+1. Install ilastik by following the installation instructions for your operating system at [this page]([https://www.anaconda.com/docs/getting-started/miniconda/install](https://www.ilastik.org/download).
+
+![ilastik Webpage](./../assets/ilastik.png)
+
+2. ilastik should now be available in your Applications or Programs menu. Double-clicking on the its icon should open a page that looks like this:
+
+![ilastik Landing](./../assets/ilastik_landing.png)
