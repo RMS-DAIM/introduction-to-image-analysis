@@ -33,7 +33,7 @@ Download the workshop data by clicking on the link to the ZIP archive at the top
 ## Installing conda
 
 1. Install Miniconda by following the installation instructions for your operating system at [this page](https://www.anaconda.com/docs/getting-started/miniconda/install). Choosing the "Graphical installer" option should make it easier, if you're not familiar with using the terminal. 
-2. [Windows users only] When prompted, make sure to select "Add Miniconda3 to my PATH environment variable" and "Register Miniconda3 as my default Python 3.13", if not already selected.
+2. [Windows users only] When prompted, make sure to select "Register Miniconda3 as my default Python 3.13", if not already selected.
 
    ![Miniconda Webpage](./../assets/anaconda_win.jpeg)
    
