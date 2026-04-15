@@ -51,7 +51,7 @@ conda update -n base conda
 ```
 ## Installing ilastik
 
-1. Install ilastik by following the installation instructions for your operating system at [this page]([https://www.anaconda.com/docs/getting-started/miniconda/install](https://www.ilastik.org/download).
+1. Install ilastik by following the installation instructions for your operating system at [this page](https://www.ilastik.org/download).
 
 ![ilastik Webpage](./../assets/ilastik.png)
 
