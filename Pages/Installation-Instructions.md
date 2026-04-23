@@ -58,3 +58,14 @@ conda update -n base conda
 2. ilastik should now be available in your Applications or Programs menu. Double-clicking on the its icon should open a page that looks like this:
 
 ![ilastik Landing](./../assets/ilastik_landing.png)
+
+## Create a GitHub account (if you don't already have one)
+
+1. Go to [https://github.com](https://github.com) and follow the “Sign up” link at the top-right of the window.
+2. Follow the instructions to create an account.
+
+![GitHub SignUp](./../assets/github.png)
+
+3. Verify your email address with GitHub.
+4. Configure [multifactor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication). More information is available on the relevant [GitHub documentation](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
+
