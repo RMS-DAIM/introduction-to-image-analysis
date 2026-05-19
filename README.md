@@ -328,6 +328,9 @@ The workshop will take place in the Translational Research Hub (TRH), School of 
 
 You can find the slides [at this link](https://drive.google.com/drive/folders/1EqJCOZNDlDT0X1jG9JtIUVGqvaJu88jj?usp=share_link).
 
+# Additional Resources
+
+* Introduction to Scripting with FIJI: https://imagej.net/tutorials/batch-processing-with-ij-macro
 
 # Previous Workshops
 
