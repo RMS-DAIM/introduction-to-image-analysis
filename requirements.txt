@@ -4,3 +4,4 @@ pandas
 numpy
 imagecodecs
 openpyxl
+wget
