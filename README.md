@@ -330,7 +330,7 @@ You can find the slides [at this link](https://drive.google.com/drive/folders/1E
 
 # Additional Resources
 
-* Introduction to Scripting with FIJI: https://imagej.net/tutorials/batch-processing-with-ij-macro
+* [Introduction to Scripting with FIJI](https://imagej.net/tutorials/batch-processing-with-ij-macro)
 
 # Previous Workshops
 
