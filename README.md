@@ -329,6 +329,7 @@ The workshop will take place in the Translational Research Hub (TRH), School of 
 You can find the slides [at this link](https://drive.google.com/drive/folders/1EqJCOZNDlDT0X1jG9JtIUVGqvaJu88jj?usp=share_link).
 
 # Additional Resources
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RMS-DAIM/introduction-to-image-analysis/HEAD?urlpath=%2Fdoc%2Ftree%2FScripts%2FJupyter)
 
 * [Introduction to Scripting with FIJI](https://imagej.net/tutorials/batch-processing-with-ij-macro)
 * [Get Started with GitHub](https://docs.github.com/en/get-started/start-your-journey)
