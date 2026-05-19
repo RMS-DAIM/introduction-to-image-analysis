@@ -331,6 +331,7 @@ You can find the slides [at this link](https://drive.google.com/drive/folders/1E
 # Additional Resources
 
 * [Introduction to Scripting with FIJI](https://imagej.net/tutorials/batch-processing-with-ij-macro)
+* [Get Started with GitHub](https://docs.github.com/en/get-started/start-your-journey)
 
 # Previous Workshops
 
