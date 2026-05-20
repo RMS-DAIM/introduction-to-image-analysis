@@ -333,6 +333,7 @@ You can find the slides [at this link](https://drive.google.com/drive/folders/1E
 
 * [Introduction to Scripting with FIJI](https://imagej.net/tutorials/batch-processing-with-ij-macro)
 * [Get Started with GitHub](https://docs.github.com/en/get-started/start-your-journey)
+* [Using ilastik in a Jupyter Notebook (minimal example)](https://github.com/ilastik/ilastik/blob/main/notebooks/pixel_classification_api/pixel-classification-api.ipynb)
 
 # Previous Workshops
 
